@@ -1,0 +1,916 @@
+{
+ "nazev": "Simulace sezony — šance na titul, top 4 a poslední tři místa (model SazkyWeb)",
+ "licence": "CC BY 4.0",
+ "zdroj": "https://sazkyweb.cz/",
+ "ligy": [
+  {
+   "liga": "Premier League",
+   "stranka": "https://sazkyweb.cz/premier-league.html#kdo-vyhraje",
+   "datum": "2026-11-04",
+   "simulaci": 20000,
+   "zbyva_zapasu": 290,
+   "tymy": [
+    {
+     "tym": "Arsenal",
+     "body": 24,
+     "zapasy": 9,
+     "ocekavane_body": 76.6,
+     "sance_titul": 0.52,
+     "sance_top4": 0.9301,
+     "sance_posledni3": 0.0
+    },
+    {
+     "tym": "Manchester City",
+     "body": 21,
+     "zapasy": 9,
+     "ocekavane_body": 71.7,
+     "sance_titul": 0.2775,
+     "sance_top4": 0.832,
+     "sance_posledni3": 0.0004
+    },
+    {
+     "tym": "Brighton",
+     "body": 19,
+     "zapasy": 9,
+     "ocekavane_body": 65.9,
+     "sance_titul": 0.1105,
+     "sance_top4": 0.6448,
+     "sance_posledni3": 0.0021
+    },
+    {
+     "tym": "Liverpool",
+     "body": 15,
+     "zapasy": 9,
+     "ocekavane_body": 58.6,
+     "sance_titul": 0.022,
+     "sance_top4": 0.3044,
+     "sance_posledni3": 0.0177
+    },
+    {
+     "tym": "Chelsea",
+     "body": 16,
+     "zapasy": 9,
+     "ocekavane_body": 58.1,
+     "sance_titul": 0.0245,
+     "sance_top4": 0.2883,
+     "sance_posledni3": 0.0204
+    },
+    {
+     "tym": "Brentford",
+     "body": 14,
+     "zapasy": 9,
+     "ocekavane_body": 55.7,
+     "sance_titul": 0.0144,
+     "sance_top4": 0.2139,
+     "sance_posledni3": 0.0305
+    },
+    {
+     "tym": "Bournemouth",
+     "body": 12,
+     "zapasy": 9,
+     "ocekavane_body": 55.1,
+     "sance_titul": 0.0121,
+     "sance_top4": 0.1922,
+     "sance_posledni3": 0.0378
+    },
+    {
+     "tym": "Everton",
+     "body": 13,
+     "zapasy": 9,
+     "ocekavane_body": 51.5,
+     "sance_titul": 0.0043,
+     "sance_top4": 0.0982,
+     "sance_posledni3": 0.0813
+    },
+    {
+     "tym": "Aston Villa",
+     "body": 12,
+     "zapasy": 9,
+     "ocekavane_body": 50.7,
+     "sance_titul": 0.0029,
+     "sance_top4": 0.0895,
+     "sance_posledni3": 0.0986
+    },
+    {
+     "tym": "Leeds United",
+     "body": 11,
+     "zapasy": 9,
+     "ocekavane_body": 49.8,
+     "sance_titul": 0.0028,
+     "sance_top4": 0.0759,
+     "sance_posledni3": 0.1137
+    },
+    {
+     "tym": "Tottenham",
+     "body": 12,
+     "zapasy": 9,
+     "ocekavane_body": 49.6,
+     "sance_titul": 0.0022,
+     "sance_top4": 0.0724,
+     "sance_posledni3": 0.1175
+    },
+    {
+     "tym": "Manchester United",
+     "body": 7,
+     "zapasy": 9,
+     "ocekavane_body": 48.3,
+     "sance_titul": 0.0022,
+     "sance_top4": 0.0618,
+     "sance_posledni3": 0.1548
+    },
+    {
+     "tym": "Fulham",
+     "body": 9,
+     "zapasy": 9,
+     "ocekavane_body": 47.1,
+     "sance_titul": 0.0014,
+     "sance_top4": 0.0421,
+     "sance_posledni3": 0.1762
+    },
+    {
+     "tym": "Nottingham Forest",
+     "body": 6,
+     "zapasy": 9,
+     "ocekavane_body": 46.4,
+     "sance_titul": 0.0008,
+     "sance_top4": 0.0352,
+     "sance_posledni3": 0.1953
+    },
+    {
+     "tym": "Newcastle",
+     "body": 11,
+     "zapasy": 9,
+     "ocekavane_body": 46.2,
+     "sance_titul": 0.0008,
+     "sance_top4": 0.034,
+     "sance_posledni3": 0.2112
+    },
+    {
+     "tym": "Ipswich",
+     "body": 11,
+     "zapasy": 9,
+     "ocekavane_body": 45.8,
+     "sance_titul": 0.0006,
+     "sance_top4": 0.0319,
+     "sance_posledni3": 0.2297
+    },
+    {
+     "tym": "Hull City",
+     "body": 11,
+     "zapasy": 9,
+     "ocekavane_body": 45.6,
+     "sance_titul": 0.0006,
+     "sance_top4": 0.028,
+     "sance_posledni3": 0.2188
+    },
+    {
+     "tym": "Coventry",
+     "body": 9,
+     "zapasy": 9,
+     "ocekavane_body": 41.8,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.0105,
+     "sance_posledni3": 0.3927
+    },
+    {
+     "tym": "Sunderland",
+     "body": 5,
+     "zapasy": 9,
+     "ocekavane_body": 41.4,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.0102,
+     "sance_posledni3": 0.3972
+    },
+    {
+     "tym": "Crystal Palace",
+     "body": 7,
+     "zapasy": 9,
+     "ocekavane_body": 39.4,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.0048,
+     "sance_posledni3": 0.5041
+    }
+   ]
+  },
+  {
+   "liga": "LaLiga",
+   "stranka": "https://sazkyweb.cz/la-liga.html#kdo-vyhraje",
+   "datum": "2026-11-04",
+   "simulaci": 20000,
+   "zbyva_zapasu": 271,
+   "tymy": [
+    {
+     "tym": "Barcelona",
+     "body": 30,
+     "zapasy": 11,
+     "ocekavane_body": 87.7,
+     "sance_titul": 0.7241,
+     "sance_top4": 0.9969,
+     "sance_posledni3": 0.0
+    },
+    {
+     "tym": "Real Madrid",
+     "body": 27,
+     "zapasy": 11,
+     "ocekavane_body": 79.5,
+     "sance_titul": 0.2021,
+     "sance_top4": 0.9677,
+     "sance_posledni3": 0.0
+    },
+    {
+     "tym": "Atlético Madrid",
+     "body": 28,
+     "zapasy": 11,
+     "ocekavane_body": 72.9,
+     "sance_titul": 0.0657,
+     "sance_top4": 0.8639,
+     "sance_posledni3": 0.0
+    },
+    {
+     "tym": "Betis Sevilla",
+     "body": 23,
+     "zapasy": 11,
+     "ocekavane_body": 62.2,
+     "sance_titul": 0.0057,
+     "sance_top4": 0.4178,
+     "sance_posledni3": 0.0032
+    },
+    {
+     "tym": "Villarreal",
+     "body": 12,
+     "zapasy": 11,
+     "ocekavane_body": 55.9,
+     "sance_titul": 0.0008,
+     "sance_top4": 0.1762,
+     "sance_posledni3": 0.0179
+    },
+    {
+     "tym": "Real Sociedad",
+     "body": 19,
+     "zapasy": 11,
+     "ocekavane_body": 55.7,
+     "sance_titul": 0.0008,
+     "sance_top4": 0.1598,
+     "sance_posledni3": 0.0202
+    },
+    {
+     "tym": "Athletic Bilbao",
+     "body": 15,
+     "zapasy": 10,
+     "ocekavane_body": 53.5,
+     "sance_titul": 0.0003,
+     "sance_top4": 0.1185,
+     "sance_posledni3": 0.0376
+    },
+    {
+     "tym": "Sevilla FC",
+     "body": 17,
+     "zapasy": 11,
+     "ocekavane_body": 52.0,
+     "sance_titul": 0.0003,
+     "sance_top4": 0.0794,
+     "sance_posledni3": 0.0489
+    },
+    {
+     "tym": "Deportivo A Coruña",
+     "body": 14,
+     "zapasy": 11,
+     "ocekavane_body": 48.9,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.0411,
+     "sance_posledni3": 0.0945
+    },
+    {
+     "tym": "Rayo Vallecano",
+     "body": 12,
+     "zapasy": 10,
+     "ocekavane_body": 48.7,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0441,
+     "sance_posledni3": 0.1091
+    },
+    {
+     "tym": "Celta Vigo",
+     "body": 12,
+     "zapasy": 11,
+     "ocekavane_body": 47.2,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.0272,
+     "sance_posledni3": 0.1231
+    },
+    {
+     "tym": "Alavés",
+     "body": 12,
+     "zapasy": 11,
+     "ocekavane_body": 46.8,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.0259,
+     "sance_posledni3": 0.1375
+    },
+    {
+     "tym": "Espanyol",
+     "body": 11,
+     "zapasy": 11,
+     "ocekavane_body": 45.6,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.0182,
+     "sance_posledni3": 0.1683
+    },
+    {
+     "tym": "Elche",
+     "body": 10,
+     "zapasy": 11,
+     "ocekavane_body": 45.0,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0187,
+     "sance_posledni3": 0.1956
+    },
+    {
+     "tym": "Osasuna",
+     "body": 11,
+     "zapasy": 11,
+     "ocekavane_body": 44.9,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.0143,
+     "sance_posledni3": 0.2034
+    },
+    {
+     "tym": "Getafe",
+     "body": 12,
+     "zapasy": 11,
+     "ocekavane_body": 43.6,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0077,
+     "sance_posledni3": 0.2364
+    },
+    {
+     "tym": "Levante",
+     "body": 10,
+     "zapasy": 11,
+     "ocekavane_body": 43.1,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0101,
+     "sance_posledni3": 0.2681
+    },
+    {
+     "tym": "Valencia",
+     "body": 9,
+     "zapasy": 11,
+     "ocekavane_body": 41.4,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0053,
+     "sance_posledni3": 0.3321
+    },
+    {
+     "tym": "Racing Santander",
+     "body": 11,
+     "zapasy": 11,
+     "ocekavane_body": 41.2,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0069,
+     "sance_posledni3": 0.363
+    },
+    {
+     "tym": "Málaga",
+     "body": 5,
+     "zapasy": 11,
+     "ocekavane_body": 35.1,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0006,
+     "sance_posledni3": 0.641
+    }
+   ]
+  },
+  {
+   "liga": "Serie A",
+   "stranka": "https://sazkyweb.cz/serie-a.html#kdo-vyhraje",
+   "datum": "2026-11-04",
+   "simulaci": 20000,
+   "zbyva_zapasu": 280,
+   "tymy": [
+    {
+     "tym": "Inter Milán",
+     "body": 25,
+     "zapasy": 10,
+     "ocekavane_body": 79.9,
+     "sance_titul": 0.4648,
+     "sance_top4": 0.901,
+     "sance_posledni3": 0.0
+    },
+    {
+     "tym": "AS Řím",
+     "body": 24,
+     "zapasy": 10,
+     "ocekavane_body": 74.3,
+     "sance_titul": 0.2084,
+     "sance_top4": 0.762,
+     "sance_posledni3": 0.0001
+    },
+    {
+     "tym": "Como",
+     "body": 23,
+     "zapasy": 10,
+     "ocekavane_body": 71.6,
+     "sance_titul": 0.1332,
+     "sance_top4": 0.6535,
+     "sance_posledni3": 0.0
+    },
+    {
+     "tym": "Lazio",
+     "body": 28,
+     "zapasy": 10,
+     "ocekavane_body": 70.7,
+     "sance_titul": 0.1087,
+     "sance_top4": 0.6027,
+     "sance_posledni3": 0.0
+    },
+    {
+     "tym": "AC Milán",
+     "body": 21,
+     "zapasy": 10,
+     "ocekavane_body": 66.0,
+     "sance_titul": 0.0441,
+     "sance_top4": 0.4013,
+     "sance_posledni3": 0.0003
+    },
+    {
+     "tym": "Juventus",
+     "body": 17,
+     "zapasy": 10,
+     "ocekavane_body": 63.3,
+     "sance_titul": 0.0222,
+     "sance_top4": 0.2777,
+     "sance_posledni3": 0.0011
+    },
+    {
+     "tym": "Neapol",
+     "body": 14,
+     "zapasy": 10,
+     "ocekavane_body": 59.9,
+     "sance_titul": 0.0104,
+     "sance_top4": 0.182,
+     "sance_posledni3": 0.0051
+    },
+    {
+     "tym": "Frosinone",
+     "body": 20,
+     "zapasy": 10,
+     "ocekavane_body": 56.3,
+     "sance_titul": 0.0046,
+     "sance_top4": 0.0964,
+     "sance_posledni3": 0.011
+    },
+    {
+     "tym": "Bologna",
+     "body": 14,
+     "zapasy": 10,
+     "ocekavane_body": 53.8,
+     "sance_titul": 0.0015,
+     "sance_top4": 0.0586,
+     "sance_posledni3": 0.0245
+    },
+    {
+     "tym": "Atalanta",
+     "body": 11,
+     "zapasy": 10,
+     "ocekavane_body": 49.7,
+     "sance_titul": 0.0009,
+     "sance_top4": 0.0232,
+     "sance_posledni3": 0.0654
+    },
+    {
+     "tym": "FC Janov",
+     "body": 13,
+     "zapasy": 10,
+     "ocekavane_body": 47.2,
+     "sance_titul": 0.0002,
+     "sance_top4": 0.01,
+     "sance_posledni3": 0.103
+    },
+    {
+     "tym": "FC Turín",
+     "body": 13,
+     "zapasy": 10,
+     "ocekavane_body": 46.3,
+     "sance_titul": 0.0003,
+     "sance_top4": 0.0097,
+     "sance_posledni3": 0.1275
+    },
+    {
+     "tym": "Cagliari",
+     "body": 13,
+     "zapasy": 10,
+     "ocekavane_body": 46.0,
+     "sance_titul": 0.0003,
+     "sance_top4": 0.0072,
+     "sance_posledni3": 0.1341
+    },
+    {
+     "tym": "Fiorentina",
+     "body": 8,
+     "zapasy": 10,
+     "ocekavane_body": 44.1,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.0062,
+     "sance_posledni3": 0.1829
+    },
+    {
+     "tym": "Sassuolo",
+     "body": 8,
+     "zapasy": 10,
+     "ocekavane_body": 42.8,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.004,
+     "sance_posledni3": 0.2317
+    },
+    {
+     "tym": "Monza",
+     "body": 7,
+     "zapasy": 10,
+     "ocekavane_body": 41.4,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0025,
+     "sance_posledni3": 0.2716
+    },
+    {
+     "tym": "Lecce",
+     "body": 9,
+     "zapasy": 10,
+     "ocekavane_body": 39.0,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0009,
+     "sance_posledni3": 0.3826
+    },
+    {
+     "tym": "Parma",
+     "body": 8,
+     "zapasy": 10,
+     "ocekavane_body": 37.6,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0003,
+     "sance_posledni3": 0.435
+    },
+    {
+     "tym": "Udinese",
+     "body": 5,
+     "zapasy": 10,
+     "ocekavane_body": 37.2,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0008,
+     "sance_posledni3": 0.4523
+    },
+    {
+     "tym": "Venezia",
+     "body": 3,
+     "zapasy": 10,
+     "ocekavane_body": 34.7,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0001,
+     "sance_posledni3": 0.5718
+    }
+   ]
+  },
+  {
+   "liga": "Bundesliga",
+   "stranka": "https://sazkyweb.cz/bundesliga.html#kdo-vyhraje",
+   "datum": "2026-11-04",
+   "simulaci": 20000,
+   "zbyva_zapasu": 234,
+   "tymy": [
+    {
+     "tym": "Bayern Mnichov",
+     "body": 18,
+     "zapasy": 8,
+     "ocekavane_body": 75.7,
+     "sance_titul": 0.7976,
+     "sance_top4": 0.9882,
+     "sance_posledni3": 0.0
+    },
+    {
+     "tym": "Dortmund",
+     "body": 18,
+     "zapasy": 8,
+     "ocekavane_body": 62.7,
+     "sance_titul": 0.1009,
+     "sance_top4": 0.7514,
+     "sance_posledni3": 0.0007
+    },
+    {
+     "tym": "RB Lipsko",
+     "body": 15,
+     "zapasy": 8,
+     "ocekavane_body": 58.8,
+     "sance_titul": 0.0486,
+     "sance_top4": 0.6046,
+     "sance_posledni3": 0.0029
+    },
+    {
+     "tym": "Freiburg",
+     "body": 16,
+     "zapasy": 8,
+     "ocekavane_body": 54.0,
+     "sance_titul": 0.0158,
+     "sance_top4": 0.3651,
+     "sance_posledni3": 0.0134
+    },
+    {
+     "tym": "Leverkusen",
+     "body": 13,
+     "zapasy": 8,
+     "ocekavane_body": 53.9,
+     "sance_titul": 0.0169,
+     "sance_top4": 0.3606,
+     "sance_posledni3": 0.0154
+    },
+    {
+     "tym": "VfB Stuttgart",
+     "body": 9,
+     "zapasy": 8,
+     "ocekavane_body": 50.2,
+     "sance_titul": 0.0066,
+     "sance_top4": 0.2281,
+     "sance_posledni3": 0.0411
+    },
+    {
+     "tym": "Werder Brémy",
+     "body": 15,
+     "zapasy": 8,
+     "ocekavane_body": 48.6,
+     "sance_titul": 0.0037,
+     "sance_top4": 0.1534,
+     "sance_posledni3": 0.0533
+    },
+    {
+     "tym": "Hoffenheim",
+     "body": 9,
+     "zapasy": 8,
+     "ocekavane_body": 48.1,
+     "sance_titul": 0.0037,
+     "sance_top4": 0.1542,
+     "sance_posledni3": 0.0614
+    },
+    {
+     "tym": "Frankfurt",
+     "body": 11,
+     "zapasy": 8,
+     "ocekavane_body": 45.3,
+     "sance_titul": 0.0018,
+     "sance_top4": 0.0873,
+     "sance_posledni3": 0.1157
+    },
+    {
+     "tym": "Mainz",
+     "body": 10,
+     "zapasy": 8,
+     "ocekavane_body": 45.1,
+     "sance_titul": 0.002,
+     "sance_top4": 0.089,
+     "sance_posledni3": 0.1136
+    },
+    {
+     "tym": "Elversberg",
+     "body": 13,
+     "zapasy": 8,
+     "ocekavane_body": 44.7,
+     "sance_titul": 0.0008,
+     "sance_top4": 0.0753,
+     "sance_posledni3": 0.1204
+    },
+    {
+     "tym": "Augsburg",
+     "body": 9,
+     "zapasy": 8,
+     "ocekavane_body": 41.4,
+     "sance_titul": 0.0004,
+     "sance_top4": 0.0426,
+     "sance_posledni3": 0.2081
+    },
+    {
+     "tym": "1. FC Köln",
+     "body": 9,
+     "zapasy": 8,
+     "ocekavane_body": 41.3,
+     "sance_titul": 0.0009,
+     "sance_top4": 0.0386,
+     "sance_posledni3": 0.2127
+    },
+    {
+     "tym": "Paderborn",
+     "body": 9,
+     "zapasy": 8,
+     "ocekavane_body": 39.9,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.0223,
+     "sance_posledni3": 0.2678
+    },
+    {
+     "tym": "Hamburger SV",
+     "body": 9,
+     "zapasy": 8,
+     "ocekavane_body": 39.2,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.0185,
+     "sance_posledni3": 0.311
+    },
+    {
+     "tym": "Schalke",
+     "body": 6,
+     "zapasy": 8,
+     "ocekavane_body": 35.9,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0076,
+     "sance_posledni3": 0.4501
+    },
+    {
+     "tym": "Union Berlín",
+     "body": 7,
+     "zapasy": 8,
+     "ocekavane_body": 35.6,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0074,
+     "sance_posledni3": 0.484
+    },
+    {
+     "tym": "Mönchengladbach",
+     "body": 4,
+     "zapasy": 8,
+     "ocekavane_body": 34.4,
+     "sance_titul": 0.0,
+     "sance_top4": 0.0056,
+     "sance_posledni3": 0.5284
+    }
+   ]
+  },
+  {
+   "liga": "Ligue 1",
+   "stranka": "https://sazkyweb.cz/ligue-1.html#kdo-vyhraje",
+   "datum": "2026-11-04",
+   "simulaci": 20000,
+   "zbyva_zapasu": 225,
+   "tymy": [
+    {
+     "tym": "Paris SG",
+     "body": 20,
+     "zapasy": 9,
+     "ocekavane_body": 69.2,
+     "sance_titul": 0.6575,
+     "sance_top4": 0.9364,
+     "sance_posledni3": 0.0
+    },
+    {
+     "tym": "Lyon",
+     "body": 17,
+     "zapasy": 9,
+     "ocekavane_body": 56.0,
+     "sance_titul": 0.0683,
+     "sance_top4": 0.4819,
+     "sance_posledni3": 0.0067
+    },
+    {
+     "tym": "Lille",
+     "body": 18,
+     "zapasy": 9,
+     "ocekavane_body": 56.0,
+     "sance_titul": 0.0692,
+     "sance_top4": 0.4727,
+     "sance_posledni3": 0.0053
+    },
+    {
+     "tym": "Lens",
+     "body": 13,
+     "zapasy": 9,
+     "ocekavane_body": 54.2,
+     "sance_titul": 0.05,
+     "sance_top4": 0.3971,
+     "sance_posledni3": 0.0111
+    },
+    {
+     "tym": "Paris FC",
+     "body": 17,
+     "zapasy": 9,
+     "ocekavane_body": 53.7,
+     "sance_titul": 0.0447,
+     "sance_top4": 0.3666,
+     "sance_posledni3": 0.0144
+    },
+    {
+     "tym": "Rennes",
+     "body": 16,
+     "zapasy": 9,
+     "ocekavane_body": 51.6,
+     "sance_titul": 0.031,
+     "sance_top4": 0.2818,
+     "sance_posledni3": 0.0283
+    },
+    {
+     "tym": "Marseille",
+     "body": 15,
+     "zapasy": 9,
+     "ocekavane_body": 51.4,
+     "sance_titul": 0.0273,
+     "sance_top4": 0.2766,
+     "sance_posledni3": 0.0278
+    },
+    {
+     "tym": "Monaco",
+     "body": 15,
+     "zapasy": 9,
+     "ocekavane_body": 51.3,
+     "sance_titul": 0.0231,
+     "sance_top4": 0.2626,
+     "sance_posledni3": 0.0291
+    },
+    {
+     "tym": "Stade Brestois",
+     "body": 12,
+     "zapasy": 9,
+     "ocekavane_body": 46.9,
+     "sance_titul": 0.0087,
+     "sance_top4": 0.1366,
+     "sance_posledni3": 0.0706
+    },
+    {
+     "tym": "Toulouse",
+     "body": 10,
+     "zapasy": 9,
+     "ocekavane_body": 46.1,
+     "sance_titul": 0.0072,
+     "sance_top4": 0.1124,
+     "sance_posledni3": 0.0847
+    },
+    {
+     "tym": "Racing Strasbourg",
+     "body": 10,
+     "zapasy": 9,
+     "ocekavane_body": 45.5,
+     "sance_titul": 0.0054,
+     "sance_top4": 0.0998,
+     "sance_posledni3": 0.1056
+    },
+    {
+     "tym": "Lorient",
+     "body": 12,
+     "zapasy": 9,
+     "ocekavane_body": 44.6,
+     "sance_titul": 0.0039,
+     "sance_top4": 0.0733,
+     "sance_posledni3": 0.1148
+    },
+    {
+     "tym": "Nice",
+     "body": 14,
+     "zapasy": 9,
+     "ocekavane_body": 43.0,
+     "sance_titul": 0.0027,
+     "sance_top4": 0.0541,
+     "sance_posledni3": 0.1633
+    },
+    {
+     "tym": "Auxerre",
+     "body": 10,
+     "zapasy": 9,
+     "ocekavane_body": 39.5,
+     "sance_titul": 0.0008,
+     "sance_top4": 0.0216,
+     "sance_posledni3": 0.3069
+    },
+    {
+     "tym": "Troyes",
+     "body": 8,
+     "zapasy": 9,
+     "ocekavane_body": 36.6,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.0083,
+     "sance_posledni3": 0.4374
+    },
+    {
+     "tym": "Le Mans",
+     "body": 7,
+     "zapasy": 9,
+     "ocekavane_body": 36.3,
+     "sance_titul": 0.0003,
+     "sance_top4": 0.0098,
+     "sance_posledni3": 0.4384
+    },
+    {
+     "tym": "Angers",
+     "body": 8,
+     "zapasy": 9,
+     "ocekavane_body": 35.6,
+     "sance_titul": 0.0001,
+     "sance_top4": 0.0065,
+     "sance_posledni3": 0.4837
+    },
+    {
+     "tym": "Le Havre",
+     "body": 2,
+     "zapasy": 9,
+     "ocekavane_body": 31.4,
+     "sance_titul": 0.0,
+     "sance_top4": 0.002,
+     "sance_posledni3": 0.6718
+    }
+   ]
+  }
+ ]
+}

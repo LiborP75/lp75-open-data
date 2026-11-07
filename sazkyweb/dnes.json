@@ -1,0 +1,386 @@
+{
+ "source": "SazkyWeb.cz",
+ "source_url": "https://sazkyweb.cz/tipsport-kurzy-dnes.html",
+ "title": "Dnes hrají — program 2026-11-07",
+ "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
+ "updated": "2026-11-07T07:04+01:00",
+ "datum": "2026-11-07",
+ "zapasy": [
+  {
+   "cas": "12:15",
+   "soutez": "Ekstraklasa",
+   "domaci": "Kielce",
+   "hoste": "Radomiak Radom",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/ekstraklasa.html"
+  },
+  {
+   "cas": "13:30",
+   "soutez": "Premier League",
+   "domaci": "Leeds",
+   "hoste": "Tottenham",
+   "tv_tipsport": false,
+   "stranka": "https://sazkyweb.cz/premier-league.html"
+  },
+  {
+   "cas": "14:00",
+   "soutez": "Chance Národní Liga",
+   "domaci": "Česká Lípa",
+   "hoste": "Táborsko",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/chance-narodni-liga.html"
+  },
+  {
+   "cas": "14:00",
+   "soutez": "La Liga",
+   "domaci": "Málaga",
+   "hoste": "Racing Santander",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/la-liga.html"
+  },
+  {
+   "cas": "14:45",
+   "soutez": "Ekstraklasa",
+   "domaci": "Slask Wroclaw",
+   "hoste": "Piast Gliwice",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/ekstraklasa.html"
+  },
+  {
+   "cas": "15:00",
+   "soutez": "Chance Liga",
+   "domaci": "Hradec Králové",
+   "hoste": "Sigma Olomouc",
+   "tv_tipsport": false,
+   "stranka": "https://sazkyweb.cz/chance-liga/prehled.html"
+  },
+  {
+   "cas": "15:00",
+   "soutez": "Chance Liga",
+   "domaci": "Slovan Liberec",
+   "hoste": "Bohemians 1905",
+   "tv_tipsport": false,
+   "stranka": "https://sazkyweb.cz/chance-liga/prehled.html"
+  },
+  {
+   "cas": "15:00",
+   "soutez": "Chance Liga",
+   "domaci": "Zlín",
+   "hoste": "Slovácko",
+   "tv_tipsport": false,
+   "stranka": "https://sazkyweb.cz/chance-liga/prehled.html"
+  },
+  {
+   "cas": "15:00",
+   "soutez": "Serie A",
+   "domaci": "Cagliari",
+   "hoste": "Frosinone",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/serie-a.html"
+  },
+  {
+   "cas": "15:00",
+   "soutez": "Serie A",
+   "domaci": "FC Torino",
+   "hoste": "Lecce",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/serie-a.html"
+  },
+  {
+   "cas": "15:30",
+   "soutez": "Bundesliga",
+   "domaci": "Dortmund",
+   "hoste": "Elversberg",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/bundesliga.html"
+  },
+  {
+   "cas": "15:30",
+   "soutez": "Bundesliga",
+   "domaci": "Mainz",
+   "hoste": "Bayern München",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/bundesliga.html"
+  },
+  {
+   "cas": "15:30",
+   "soutez": "Bundesliga",
+   "domaci": "Paderborn",
+   "hoste": "Frankfurt",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/bundesliga.html"
+  },
+  {
+   "cas": "15:30",
+   "soutez": "Bundesliga",
+   "domaci": "RB Leipzig",
+   "hoste": "Augsburg",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/bundesliga.html"
+  },
+  {
+   "cas": "16:00",
+   "soutez": "Premier League",
+   "domaci": "Arsenal",
+   "hoste": "Hull",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/premier-league.html"
+  },
+  {
+   "cas": "16:00",
+   "soutez": "Premier League",
+   "domaci": "Fulham",
+   "hoste": "Newcastle",
+   "tv_tipsport": false,
+   "stranka": "https://sazkyweb.cz/premier-league.html"
+  },
+  {
+   "cas": "16:15",
+   "soutez": "La Liga",
+   "domaci": "Espanyol",
+   "hoste": "Deportivo A Coruna",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/la-liga.html"
+  },
+  {
+   "cas": "17:00",
+   "soutez": "Chance Národní Liga",
+   "domaci": "Kroměříž",
+   "hoste": "Třinec",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/chance-narodni-liga.html"
+  },
+  {
+   "cas": "17:30",
+   "soutez": "Ekstraklasa",
+   "domaci": "Zabrze",
+   "hoste": "Wieczysta Kraków",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/ekstraklasa.html"
+  },
+  {
+   "cas": "18:00",
+   "soutez": "Chance Liga",
+   "domaci": "Zbrojovka Brno",
+   "hoste": "Baník Ostrava",
+   "tv_tipsport": false,
+   "stranka": "https://sazkyweb.cz/chance-liga/prehled.html"
+  },
+  {
+   "cas": "18:00",
+   "soutez": "Serie A",
+   "domaci": "Parma",
+   "hoste": "Bologna",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/serie-a.html"
+  },
+  {
+   "cas": "18:05",
+   "soutez": "Oktagon",
+   "domaci": "Haberle Kathrin",
+   "hoste": "Albuquerque Poliana",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "18:30",
+   "soutez": "Bundesliga",
+   "domaci": "Stuttgart",
+   "hoste": "Bremen",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/bundesliga.html"
+  },
+  {
+   "cas": "18:30",
+   "soutez": "La Liga",
+   "domaci": "Osasuna",
+   "hoste": "Bilbao",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/la-liga.html"
+  },
+  {
+   "cas": "18:30",
+   "soutez": "Oktagon",
+   "domaci": "Severino Matheus",
+   "hoste": "Walid Mohammed",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "18:30",
+   "soutez": "Premier League",
+   "domaci": "Nottingham",
+   "hoste": "Manchester City",
+   "tv_tipsport": false,
+   "stranka": "https://sazkyweb.cz/premier-league.html"
+  },
+  {
+   "cas": "18:37",
+   "soutez": "NHL",
+   "domaci": "Washington Capitals",
+   "hoste": "Florida Panthers",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
+  },
+  {
+   "cas": "18:55",
+   "soutez": "Oktagon",
+   "domaci": "Knutsson Josefine",
+   "hoste": "Guimaraes Yasmin",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "19:00",
+   "soutez": "Ligue 1",
+   "domaci": "Auxerre",
+   "hoste": "Paris FC",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/ligue-1.html"
+  },
+  {
+   "cas": "19:07",
+   "soutez": "NHL",
+   "domaci": "Nashville Predators",
+   "hoste": "St.Louis Blues",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
+  },
+  {
+   "cas": "19:20",
+   "soutez": "Oktagon",
+   "domaci": "Djabrailov Islam",
+   "hoste": "Bortoluzzi Kenji",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "19:55",
+   "soutez": "Oktagon",
+   "domaci": "Holzer Jan",
+   "hoste": "Švagerko Ján",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "20:15",
+   "soutez": "Ekstraklasa",
+   "domaci": "Widzew Lódž",
+   "hoste": "Szczecin",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/ekstraklasa.html"
+  },
+  {
+   "cas": "20:20",
+   "soutez": "Oktagon",
+   "domaci": "Akseker Haci",
+   "hoste": "Kujawa Jonatan",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "20:45",
+   "soutez": "Serie A",
+   "domaci": "AS Roma",
+   "hoste": "Sassuolo",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/serie-a.html"
+  },
+  {
+   "cas": "21:00",
+   "soutez": "La Liga",
+   "domaci": "Valencia",
+   "hoste": "Real Madrid",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/la-liga.html"
+  },
+  {
+   "cas": "21:00",
+   "soutez": "Oktagon",
+   "domaci": "Makin Daniel",
+   "hoste": "Bartoněk Petr",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "21:05",
+   "soutez": "Ligue 1",
+   "domaci": "Paris SG",
+   "hoste": "Troyes",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/ligue-1.html"
+  },
+  {
+   "cas": "21:35",
+   "soutez": "Oktagon",
+   "domaci": "Ryšavý Karol",
+   "hoste": "Bark Samuel",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "22:20",
+   "soutez": "Oktagon",
+   "domaci": "Detzel Justin",
+   "hoste": "Fratczak Kacper",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "22:55",
+   "soutez": "Oktagon",
+   "domaci": "Aslaner Ozan",
+   "hoste": "Frimpong Denis",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "23:00",
+   "soutez": "UFC",
+   "domaci": "Nascimento de Souza Jose Henrique",
+   "hoste": "Parsons Jonny",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "23:07",
+   "soutez": "NHL",
+   "domaci": "Seattle Kraken",
+   "hoste": "New York Rangers",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
+  },
+  {
+   "cas": "23:20",
+   "soutez": "Oktagon",
+   "domaci": "Palokaj Gjoni",
+   "hoste": "Mohsen Zafar",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "23:25",
+   "soutez": "UFC",
+   "domaci": "Ko Seok Hyeon",
+   "hoste": "Turman Wellington",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "23:50",
+   "soutez": "UFC",
+   "domaci": "Petroski Andre",
+   "hoste": "Kondratavicius Mantas",
+   "tv_tipsport": true,
+   "stranka": null
+  },
+  {
+   "cas": "23:55",
+   "soutez": "Oktagon",
+   "domaci": "Severino da Silva Igor",
+   "hoste": "Holzer Max",
+   "tv_tipsport": true,
+   "stranka": null
+  }
+ ]
+}

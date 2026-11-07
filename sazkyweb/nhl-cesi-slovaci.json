@@ -1,0 +1,406 @@
+{
+ "source": "SazkyWeb.cz",
+ "source_url": "https://sazkyweb.cz/nhl-2026-27.html",
+ "title": "Češi a Slováci v NHL 2026/27",
+ "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
+ "updated": "2026-11-07T07:04+01:00",
+ "poznamka": "Soupisky po škrtech před startem (ČTK, NHL); statistiky sčítané z denních přehledů SazkyWeb.",
+ "hraci": [
+  {
+   "jmeno": "Lukáš Dostál",
+   "zeme": "CZE",
+   "tym": "ANA",
+   "pozice": "brankář",
+   "nhl_id": 8480843,
+   "sezona_2026_27": {
+    "zapasy": 10,
+    "zakroky": 218,
+    "strely_proti": 252,
+    "vyhry": 3
+   }
+  },
+  {
+   "jmeno": "David Pastrňák",
+   "zeme": "CZE",
+   "tym": "BOS",
+   "pozice": "útočník",
+   "nhl_id": 8477956,
+   "sezona_2026_27": {
+    "zapasy": 16,
+    "goly": 8,
+    "asistence": 13,
+    "body": 21
+   }
+  },
+  {
+   "jmeno": "Pavel Zacha",
+   "zeme": "CZE",
+   "tym": "BOS",
+   "pozice": "útočník",
+   "nhl_id": 8478401,
+   "sezona_2026_27": {
+    "zapasy": 15,
+    "goly": 4,
+    "asistence": 7,
+    "body": 11
+   }
+  },
+  {
+   "jmeno": "Jiří Kulich",
+   "zeme": "CZE",
+   "tym": "BUF",
+   "pozice": "útočník",
+   "nhl_id": 8483468,
+   "sezona_2026_27": {
+    "zapasy": 9,
+    "goly": 1,
+    "asistence": 2,
+    "body": 3
+   }
+  },
+  {
+   "jmeno": "Adam Klapka",
+   "zeme": "CZE",
+   "tym": "CGY",
+   "pozice": "útočník",
+   "nhl_id": 8483609,
+   "sezona_2026_27": {
+    "zapasy": 17,
+    "goly": 3,
+    "asistence": 3,
+    "body": 6
+   }
+  },
+  {
+   "jmeno": "Martin Nečas",
+   "zeme": "CZE",
+   "tym": "COL",
+   "pozice": "útočník",
+   "nhl_id": 8480039,
+   "sezona_2026_27": {
+    "zapasy": 17,
+    "goly": 7,
+    "asistence": 12,
+    "body": 19
+   }
+  },
+  {
+   "jmeno": "Radek Faksa",
+   "zeme": "CZE",
+   "tym": "DAL",
+   "pozice": "útočník",
+   "nhl_id": 8476889,
+   "sezona_2026_27": {
+    "zapasy": 12,
+    "goly": 0,
+    "asistence": 2,
+    "body": 2
+   }
+  },
+  {
+   "jmeno": "Radko Gudas",
+   "zeme": "CZE",
+   "tym": "FLA",
+   "pozice": "obránce",
+   "nhl_id": 8475462,
+   "sezona_2026_27": {
+    "zapasy": 11,
+    "goly": 0,
+    "asistence": 0,
+    "body": 0
+   }
+  },
+  {
+   "jmeno": "David Špaček",
+   "zeme": "CZE",
+   "tym": "MIN",
+   "pozice": "obránce",
+   "nhl_id": 8483766,
+   "sezona_2026_27": {
+    "zapasy": 10,
+    "goly": 0,
+    "asistence": 1,
+    "body": 1
+   }
+  },
+  {
+   "jmeno": "Jakub Dobeš",
+   "zeme": "CZE",
+   "tym": "MTL",
+   "pozice": "brankář",
+   "nhl_id": 8482487,
+   "sezona_2026_27": {
+    "zapasy": 7,
+    "zakroky": 155,
+    "strely_proti": 183,
+    "vyhry": 3
+   }
+  },
+  {
+   "jmeno": "Ondřej Palát",
+   "zeme": "CZE",
+   "tym": "NYI",
+   "pozice": "útočník",
+   "nhl_id": 8476292,
+   "sezona_2026_27": {
+    "zapasy": 15,
+    "goly": 2,
+    "asistence": 2,
+    "body": 4
+   }
+  },
+  {
+   "jmeno": "Jaroslav Chmelař",
+   "zeme": "CZE",
+   "tym": "NYR",
+   "pozice": "útočník",
+   "nhl_id": 8482877,
+   "sezona_2026_27": {
+    "zapasy": 9,
+    "goly": 0,
+    "asistence": 0,
+    "body": 0
+   }
+  },
+  {
+   "jmeno": "David Jiříček",
+   "zeme": "CZE",
+   "tym": "PHI",
+   "pozice": "obránce",
+   "nhl_id": 8483460,
+   "sezona_2026_27": {
+    "zapasy": 9,
+    "goly": 0,
+    "asistence": 1,
+    "body": 1
+   }
+  },
+  {
+   "jmeno": "Daniel Vladař",
+   "zeme": "CZE",
+   "tym": "PHI",
+   "pozice": "brankář",
+   "nhl_id": 8478435,
+   "sezona_2026_27": {
+    "zapasy": 9,
+    "zakroky": 219,
+    "strely_proti": 248,
+    "vyhry": 3
+   }
+  },
+  {
+   "jmeno": "Adam Jiříček",
+   "zeme": "CZE",
+   "tym": "STL",
+   "pozice": "obránce",
+   "nhl_id": 8484790,
+   "sezona_2026_27": {
+    "zapasy": 16,
+    "goly": 1,
+    "asistence": 2,
+    "body": 3
+   }
+  },
+  {
+   "jmeno": "Karel Vejmelka",
+   "zeme": "CZE",
+   "tym": "UTA",
+   "pozice": "brankář",
+   "nhl_id": 8478872,
+   "sezona_2026_27": {
+    "zapasy": 12,
+    "zakroky": 242,
+    "strely_proti": 278,
+    "vyhry": 6
+   }
+  },
+  {
+   "jmeno": "Filip Chytil",
+   "zeme": "CZE",
+   "tym": "VAN",
+   "pozice": "útočník",
+   "nhl_id": 8480078,
+   "sezona_2026_27": {
+    "zapasy": 7,
+    "goly": 0,
+    "asistence": 2,
+    "body": 2
+   }
+  },
+  {
+   "jmeno": "Filip Hronek",
+   "zeme": "CZE",
+   "tym": "VAN",
+   "pozice": "obránce",
+   "nhl_id": 8479425,
+   "sezona_2026_27": {
+    "zapasy": 18,
+    "goly": 1,
+    "asistence": 11,
+    "body": 12
+   }
+  },
+  {
+   "jmeno": "Tomáš Hertl",
+   "zeme": "CZE",
+   "tym": "VGK",
+   "pozice": "útočník",
+   "nhl_id": 8476881,
+   "sezona_2026_27": {
+    "zapasy": 18,
+    "goly": 7,
+    "asistence": 5,
+    "body": 12
+   }
+  },
+  {
+   "jmeno": "Samuel Honzek",
+   "zeme": "SVK",
+   "tym": "CGY",
+   "pozice": "útočník",
+   "nhl_id": 8484180,
+   "sezona_2026_27": {
+    "zapasy": 4,
+    "goly": 0,
+    "asistence": 0,
+    "body": 0
+   }
+  },
+  {
+   "jmeno": "Martin Pospíšil",
+   "zeme": "SVK",
+   "tym": "CGY",
+   "pozice": "útočník",
+   "nhl_id": 8481028,
+   "sezona_2026_27": {
+    "zapasy": 17,
+    "goly": 3,
+    "asistence": 3,
+    "body": 6
+   }
+  },
+  {
+   "jmeno": "Šimon Nemec",
+   "zeme": "SVK",
+   "tym": "CGY",
+   "pozice": "obránce",
+   "nhl_id": 8483495,
+   "sezona_2026_27": {
+    "zapasy": 17,
+    "goly": 0,
+    "asistence": 5,
+    "body": 5
+   }
+  },
+  {
+   "jmeno": "Juraj Slafkovský",
+   "zeme": "SVK",
+   "tym": "MTL",
+   "pozice": "útočník",
+   "nhl_id": 8483515,
+   "sezona_2026_27": {
+    "zapasy": 16,
+    "goly": 2,
+    "asistence": 10,
+    "body": 12
+   }
+  },
+  {
+   "jmeno": "Adam Sýkora",
+   "zeme": "SVK",
+   "tym": "NYR",
+   "pozice": "útočník",
+   "nhl_id": 8483669,
+   "sezona_2026_27": null
+  },
+  {
+   "jmeno": "Dalibor Dvorský",
+   "zeme": "SVK",
+   "tym": "STL",
+   "pozice": "útočník",
+   "nhl_id": 8484164,
+   "sezona_2026_27": {
+    "zapasy": 16,
+    "goly": 4,
+    "asistence": 1,
+    "body": 5
+   }
+  },
+  {
+   "jmeno": "Erik Černák",
+   "zeme": "SVK",
+   "tym": "TBL",
+   "pozice": "obránce",
+   "nhl_id": 8478416,
+   "sezona_2026_27": {
+    "zapasy": 14,
+    "goly": 0,
+    "asistence": 5,
+    "body": 5
+   }
+  },
+  {
+   "jmeno": "Martin Fehérváry",
+   "zeme": "SVK",
+   "tym": "WSH",
+   "pozice": "obránce",
+   "nhl_id": 8480796,
+   "sezona_2026_27": {
+    "zapasy": 14,
+    "goly": 0,
+    "asistence": 4,
+    "body": 4
+   }
+  },
+  {
+   "jmeno": "Marek Alscher",
+   "zeme": "CZE",
+   "tym": "FLA",
+   "pozice": "obránce",
+   "nhl_id": 8483687,
+   "sezona_2026_27": null
+  },
+  {
+   "jmeno": "Mikuláš Hovorka",
+   "zeme": "CZE",
+   "tym": "FLA",
+   "pozice": "obránce",
+   "nhl_id": 8484933,
+   "sezona_2026_27": null
+  },
+  {
+   "jmeno": "Michal Postava",
+   "zeme": "CZE",
+   "tym": "DET",
+   "pozice": "brankář",
+   "nhl_id": 8485545,
+   "sezona_2026_27": {
+    "zapasy": 2,
+    "zakroky": 32,
+    "strely_proti": 36,
+    "vyhry": 1
+   }
+  },
+  {
+   "jmeno": "Libor Hajek",
+   "zeme": "CZE",
+   "tym": "SJS",
+   "pozice": "obránce",
+   "nhl_id": 8479333,
+   "sezona_2026_27": null
+  },
+  {
+   "jmeno": "Martin Chromiak",
+   "zeme": "SVK",
+   "tym": "LAK",
+   "pozice": "útočník",
+   "nhl_id": 8482160,
+   "sezona_2026_27": {
+    "zapasy": 2,
+    "goly": 0,
+    "asistence": 0,
+    "body": 0
+   }
+  }
+ ]
+}

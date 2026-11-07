@@ -1,0 +1,340 @@
+{
+ "source": "SazkyWeb.cz",
+ "source_url": "https://sazkyweb.cz/maxa-liga-2026-27.html#bodovani",
+ "title": "Maxa liga 2026/27 — kanadské bodování",
+ "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
+ "updated": "2026-10-27T00:10:00+02:00",
+ "zdroj": "oficiální statistiky hokej.cz",
+ "bodovani": [
+  {
+   "poradi": 1,
+   "hrac": "Tomáš Šmerha",
+   "klub": "Vsetín",
+   "zapasy": 16,
+   "goly": 9,
+   "asistence": 16,
+   "body": 25,
+   "plus_minus": "20"
+  },
+  {
+   "poradi": 2,
+   "hrac": "Petr Straka",
+   "klub": "Vsetín",
+   "zapasy": 16,
+   "goly": 12,
+   "asistence": 10,
+   "body": 22,
+   "plus_minus": "16"
+  },
+  {
+   "poradi": 3,
+   "hrac": "Pavel Klhůfek",
+   "klub": "Vsetín",
+   "zapasy": 14,
+   "goly": 5,
+   "asistence": 17,
+   "body": 22,
+   "plus_minus": "16"
+  },
+  {
+   "poradi": 4,
+   "hrac": "Cole Coskey",
+   "klub": "Chomutov",
+   "zapasy": 17,
+   "goly": 9,
+   "asistence": 9,
+   "body": 18,
+   "plus_minus": "-1"
+  },
+  {
+   "poradi": 5,
+   "hrac": "Vojtěch Střondala",
+   "klub": "Frýdek-Místek",
+   "zapasy": 17,
+   "goly": 7,
+   "asistence": 11,
+   "body": 18,
+   "plus_minus": "6"
+  },
+  {
+   "poradi": 6,
+   "hrac": "Martin Hanzl",
+   "klub": "Chomutov",
+   "zapasy": 17,
+   "goly": 5,
+   "asistence": 13,
+   "body": 18,
+   "plus_minus": "-3"
+  },
+  {
+   "poradi": 7,
+   "hrac": "Denis Kusý",
+   "klub": "Pardubice B",
+   "zapasy": 16,
+   "goly": 6,
+   "asistence": 10,
+   "body": 16,
+   "plus_minus": "2"
+  },
+  {
+   "poradi": 8,
+   "hrac": "František Formánek",
+   "klub": "Pardubice B",
+   "zapasy": 17,
+   "goly": 8,
+   "asistence": 6,
+   "body": 14,
+   "plus_minus": "1"
+  },
+  {
+   "poradi": 9,
+   "hrac": "Martin Novák",
+   "klub": "Přerov",
+   "zapasy": 17,
+   "goly": 7,
+   "asistence": 7,
+   "body": 14,
+   "plus_minus": "-3"
+  },
+  {
+   "poradi": 10,
+   "hrac": "Matěj Přibyl",
+   "klub": "Litoměřice",
+   "zapasy": 14,
+   "goly": 4,
+   "asistence": 10,
+   "body": 14,
+   "plus_minus": "6"
+  },
+  {
+   "poradi": 11,
+   "hrac": "Pavel Novák",
+   "klub": "Tábor",
+   "zapasy": 15,
+   "goly": 10,
+   "asistence": 3,
+   "body": 13,
+   "plus_minus": "4"
+  },
+  {
+   "poradi": 12,
+   "hrac": "David Kofroň",
+   "klub": "Frýdek-Místek",
+   "zapasy": 14,
+   "goly": 7,
+   "asistence": 6,
+   "body": 13,
+   "plus_minus": "1"
+  },
+  {
+   "poradi": 13,
+   "hrac": "Jake Gricius",
+   "klub": "Slavia Praha",
+   "zapasy": 17,
+   "goly": 7,
+   "asistence": 6,
+   "body": 13,
+   "plus_minus": "-2"
+  },
+  {
+   "poradi": 14,
+   "hrac": "David Ostřížek",
+   "klub": "Frýdek-Místek",
+   "zapasy": 17,
+   "goly": 6,
+   "asistence": 7,
+   "body": 13,
+   "plus_minus": "-1"
+  },
+  {
+   "poradi": 15,
+   "hrac": "Jan Dalecký",
+   "klub": "Sokolov",
+   "zapasy": 17,
+   "goly": 3,
+   "asistence": 10,
+   "body": 13,
+   "plus_minus": "-4"
+  },
+  {
+   "poradi": 16,
+   "hrac": "Petr Mrázek",
+   "klub": "Přerov",
+   "zapasy": 17,
+   "goly": 3,
+   "asistence": 10,
+   "body": 13,
+   "plus_minus": "-5"
+  },
+  {
+   "poradi": 17,
+   "hrac": "Šimon Jenáček",
+   "klub": "Vsetín",
+   "zapasy": 16,
+   "goly": 2,
+   "asistence": 11,
+   "body": 13,
+   "plus_minus": "9"
+  },
+  {
+   "poradi": 18,
+   "hrac": "Ondřej Slováček",
+   "klub": "Vsetín",
+   "zapasy": 16,
+   "goly": 0,
+   "asistence": 13,
+   "body": 13,
+   "plus_minus": "7"
+  },
+  {
+   "poradi": 19,
+   "hrac": "Evan Boucher",
+   "klub": "Chomutov",
+   "zapasy": 15,
+   "goly": 9,
+   "asistence": 3,
+   "body": 12,
+   "plus_minus": "-3"
+  },
+  {
+   "poradi": 20,
+   "hrac": "Petr Ton",
+   "klub": "Litoměřice",
+   "zapasy": 12,
+   "goly": 8,
+   "asistence": 4,
+   "body": 12,
+   "plus_minus": "6"
+  },
+  {
+   "poradi": 21,
+   "hrac": "Jakub Valský",
+   "klub": "Tábor",
+   "zapasy": 15,
+   "goly": 7,
+   "asistence": 5,
+   "body": 12,
+   "plus_minus": "5"
+  },
+  {
+   "poradi": 22,
+   "hrac": "Filip Suchý",
+   "klub": "Vsetín",
+   "zapasy": 16,
+   "goly": 7,
+   "asistence": 5,
+   "body": 12,
+   "plus_minus": "0"
+  },
+  {
+   "poradi": 23,
+   "hrac": "Tomáš Čachotský",
+   "klub": "Jihlava",
+   "zapasy": 16,
+   "goly": 4,
+   "asistence": 8,
+   "body": 12,
+   "plus_minus": "6"
+  },
+  {
+   "poradi": 24,
+   "hrac": "Daniel Rákos",
+   "klub": "Pardubice B",
+   "zapasy": 15,
+   "goly": 1,
+   "asistence": 11,
+   "body": 12,
+   "plus_minus": "1"
+  },
+  {
+   "poradi": 25,
+   "hrac": "Kale Costa",
+   "klub": "Vsetín",
+   "zapasy": 16,
+   "goly": 7,
+   "asistence": 4,
+   "body": 11,
+   "plus_minus": "5"
+  },
+  {
+   "poradi": 26,
+   "hrac": "Martin Osmík",
+   "klub": "Sokolov",
+   "zapasy": 17,
+   "goly": 7,
+   "asistence": 4,
+   "body": 11,
+   "plus_minus": "-4"
+  },
+  {
+   "poradi": 27,
+   "hrac": "Richard Cachnín",
+   "klub": "Jihlava",
+   "zapasy": 15,
+   "goly": 6,
+   "asistence": 5,
+   "body": 11,
+   "plus_minus": "5"
+  },
+  {
+   "poradi": 28,
+   "hrac": "Matěj Chalupa",
+   "klub": "Kolín",
+   "zapasy": 16,
+   "goly": 6,
+   "asistence": 5,
+   "body": 11,
+   "plus_minus": "-1"
+  },
+  {
+   "poradi": 29,
+   "hrac": "Matouš Menšík",
+   "klub": "Jihlava",
+   "zapasy": 16,
+   "goly": 6,
+   "asistence": 5,
+   "body": 11,
+   "plus_minus": "4"
+  },
+  {
+   "poradi": 30,
+   "hrac": "Tomáš Chlubna",
+   "klub": "Tábor",
+   "zapasy": 16,
+   "goly": 6,
+   "asistence": 5,
+   "body": 11,
+   "plus_minus": "5"
+  },
+  {
+   "poradi": 31,
+   "hrac": "Štěpán Csamango",
+   "klub": "Sokolov",
+   "zapasy": 17,
+   "goly": 6,
+   "asistence": 5,
+   "body": 11,
+   "plus_minus": "-2"
+  },
+  {
+   "poradi": 32,
+   "hrac": "Tomáš Trunda",
+   "klub": "Slavia Praha",
+   "zapasy": 16,
+   "goly": 4,
+   "asistence": 7,
+   "body": 11,
+   "plus_minus": "-2"
+  },
+  {
+   "poradi": 33,
+   "hrac": "Otakar Šik",
+   "klub": "Sokolov",
+   "zapasy": 17,
+   "goly": 3,
+   "asistence": 8,
+   "body": 11,
+   "plus_minus": "1"
+  }
+ ]
+}

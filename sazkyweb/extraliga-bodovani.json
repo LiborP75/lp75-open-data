@@ -1,0 +1,410 @@
+{
+ "source": "SazkyWeb.cz",
+ "source_url": "https://sazkyweb.cz/extraliga-2026-27.html",
+ "title": "Tipsport extraliga 2026/27 — kanadské bodování",
+ "zdroj": "oficiální statistiky hokej.cz",
+ "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
+ "updated": "2026-10-26T00:10:00+02:00",
+ "bodovani": [
+  {
+   "poradi": 1,
+   "hrac": "Roman Červenka",
+   "tym": "Pardubice",
+   "zapasy": 11,
+   "goly": 5,
+   "asistence": 14,
+   "body": 19,
+   "plus_minus": "5"
+  },
+  {
+   "poradi": 2,
+   "hrac": "David Tomášek",
+   "tym": "Pardubice",
+   "zapasy": 14,
+   "goly": 5,
+   "asistence": 13,
+   "body": 18,
+   "plus_minus": "3"
+  },
+  {
+   "poradi": 3,
+   "hrac": "Filip Chlapík",
+   "tym": "Sparta Praha",
+   "zapasy": 14,
+   "goly": 3,
+   "asistence": 15,
+   "body": 18,
+   "plus_minus": "8"
+  },
+  {
+   "poradi": 4,
+   "hrac": "Martin Růžička",
+   "tym": "Třinec",
+   "zapasy": 14,
+   "goly": 4,
+   "asistence": 13,
+   "body": 17,
+   "plus_minus": "9"
+  },
+  {
+   "poradi": 5,
+   "hrac": "Libor Hudáček",
+   "tym": "Třinec",
+   "zapasy": 13,
+   "goly": 4,
+   "asistence": 12,
+   "body": 16,
+   "plus_minus": "9"
+  },
+  {
+   "poradi": 6,
+   "hrac": "Robert Leino",
+   "tym": "Kometa Brno",
+   "zapasy": 13,
+   "goly": 7,
+   "asistence": 7,
+   "body": 14,
+   "plus_minus": "14"
+  },
+  {
+   "poradi": 7,
+   "hrac": "Michael Špaček",
+   "tym": "Sparta Praha",
+   "zapasy": 14,
+   "goly": 6,
+   "asistence": 8,
+   "body": 14,
+   "plus_minus": "9"
+  },
+  {
+   "poradi": 8,
+   "hrac": "Ondřej Kaše",
+   "tym": "Litvínov",
+   "zapasy": 14,
+   "goly": 4,
+   "asistence": 10,
+   "body": 14,
+   "plus_minus": "0"
+  },
+  {
+   "poradi": 9,
+   "hrac": "Niko Ojamäki",
+   "tym": "Kladno",
+   "zapasy": 12,
+   "goly": 8,
+   "asistence": 5,
+   "body": 13,
+   "plus_minus": "3"
+  },
+  {
+   "poradi": 10,
+   "hrac": "Matěj Stránský",
+   "tym": "Pardubice",
+   "zapasy": 14,
+   "goly": 6,
+   "asistence": 7,
+   "body": 13,
+   "plus_minus": "2"
+  },
+  {
+   "poradi": 11,
+   "hrac": "Daniel Audette",
+   "tym": "Kladno",
+   "zapasy": 14,
+   "goly": 4,
+   "asistence": 9,
+   "body": 13,
+   "plus_minus": "2"
+  },
+  {
+   "poradi": 12,
+   "hrac": "Róbert Lantoši",
+   "tym": "České Budějovice",
+   "zapasy": 14,
+   "goly": 2,
+   "asistence": 11,
+   "body": 13,
+   "plus_minus": "-1"
+  },
+  {
+   "poradi": 13,
+   "hrac": "Jiří Smejkal",
+   "tym": "Pardubice",
+   "zapasy": 14,
+   "goly": 8,
+   "asistence": 4,
+   "body": 12,
+   "plus_minus": "-1"
+  },
+  {
+   "poradi": 14,
+   "hrac": "Matěj Kubiesa",
+   "tym": "Třinec",
+   "zapasy": 14,
+   "goly": 6,
+   "asistence": 6,
+   "body": 12,
+   "plus_minus": "7"
+  },
+  {
+   "poradi": 15,
+   "hrac": "Jan Štencel",
+   "tym": "České Budějovice",
+   "zapasy": 14,
+   "goly": 4,
+   "asistence": 8,
+   "body": 12,
+   "plus_minus": "4"
+  },
+  {
+   "poradi": 16,
+   "hrac": "Nick Olesen",
+   "tym": "České Budějovice",
+   "zapasy": 13,
+   "goly": 7,
+   "asistence": 4,
+   "body": 11,
+   "plus_minus": "0"
+  },
+  {
+   "poradi": 17,
+   "hrac": "Daniel Voženílek",
+   "tym": "Třinec",
+   "zapasy": 14,
+   "goly": 7,
+   "asistence": 4,
+   "body": 11,
+   "plus_minus": "8"
+  },
+  {
+   "poradi": 18,
+   "hrac": "David Kämpf",
+   "tym": "Litvínov",
+   "zapasy": 14,
+   "goly": 6,
+   "asistence": 5,
+   "body": 11,
+   "plus_minus": "-3"
+  },
+  {
+   "poradi": 19,
+   "hrac": "Jakub Konečný",
+   "tym": "Kladno",
+   "zapasy": 11,
+   "goly": 5,
+   "asistence": 6,
+   "body": 11,
+   "plus_minus": "3"
+  },
+  {
+   "poradi": 20,
+   "hrac": "Marko Daňo",
+   "tym": "Třinec",
+   "zapasy": 14,
+   "goly": 4,
+   "asistence": 7,
+   "body": 11,
+   "plus_minus": "5"
+  },
+  {
+   "poradi": 21,
+   "hrac": "Anders Koch",
+   "tym": "Hradec Králové",
+   "zapasy": 14,
+   "goly": 3,
+   "asistence": 8,
+   "body": 11,
+   "plus_minus": "3"
+  },
+  {
+   "poradi": 22,
+   "hrac": "Jakub Rychlovský",
+   "tym": "Liberec",
+   "zapasy": 14,
+   "goly": 6,
+   "asistence": 4,
+   "body": 10,
+   "plus_minus": "-2"
+  },
+  {
+   "poradi": 23,
+   "hrac": "David Šťastný",
+   "tym": "Karlovy Vary",
+   "zapasy": 14,
+   "goly": 5,
+   "asistence": 5,
+   "body": 10,
+   "plus_minus": "1"
+  },
+  {
+   "poradi": 24,
+   "hrac": "Ondřej Kovařčík",
+   "tym": "Třinec",
+   "zapasy": 14,
+   "goly": 5,
+   "asistence": 5,
+   "body": 10,
+   "plus_minus": "0"
+  },
+  {
+   "poradi": 25,
+   "hrac": "Nicholas Jones",
+   "tym": "Karlovy Vary",
+   "zapasy": 9,
+   "goly": 4,
+   "asistence": 6,
+   "body": 10,
+   "plus_minus": "4"
+  },
+  {
+   "poradi": 26,
+   "hrac": "Adam Zbořil",
+   "tym": "Kometa Brno",
+   "zapasy": 12,
+   "goly": 4,
+   "asistence": 6,
+   "body": 10,
+   "plus_minus": "0"
+  },
+  {
+   "poradi": 27,
+   "hrac": "Felikss Gavars",
+   "tym": "Mladá Boleslav",
+   "zapasy": 14,
+   "goly": 4,
+   "asistence": 6,
+   "body": 10,
+   "plus_minus": "3"
+  },
+  {
+   "poradi": 28,
+   "hrac": "Jan Košťálek",
+   "tym": "Pardubice",
+   "zapasy": 12,
+   "goly": 3,
+   "asistence": 7,
+   "body": 10,
+   "plus_minus": "1"
+  },
+  {
+   "poradi": 29,
+   "hrac": "Andrej Nestrašil",
+   "tym": "Třinec",
+   "zapasy": 14,
+   "goly": 3,
+   "asistence": 7,
+   "body": 10,
+   "plus_minus": "-2"
+  },
+  {
+   "poradi": 30,
+   "hrac": "Carter Robertson",
+   "tym": "Plzeň",
+   "zapasy": 14,
+   "goly": 3,
+   "asistence": 7,
+   "body": 10,
+   "plus_minus": "-1"
+  },
+  {
+   "poradi": 31,
+   "hrac": "Štěpán Hoch",
+   "tym": "České Budějovice",
+   "zapasy": 14,
+   "goly": 1,
+   "asistence": 9,
+   "body": 10,
+   "plus_minus": "3"
+  },
+  {
+   "poradi": 32,
+   "hrac": "Christophe Lalancette",
+   "tym": "Plzeň",
+   "zapasy": 14,
+   "goly": 0,
+   "asistence": 10,
+   "body": 10,
+   "plus_minus": "-1"
+  },
+  {
+   "poradi": 33,
+   "hrac": "Jakub Flek",
+   "tym": "Kometa Brno",
+   "zapasy": 14,
+   "goly": 5,
+   "asistence": 4,
+   "body": 9,
+   "plus_minus": "1"
+  },
+  {
+   "poradi": 34,
+   "hrac": "Lukáš Sedlák",
+   "tym": "Pardubice",
+   "zapasy": 10,
+   "goly": 4,
+   "asistence": 5,
+   "body": 9,
+   "plus_minus": "4"
+  },
+  {
+   "poradi": 35,
+   "hrac": "Aleš Jergl",
+   "tym": "Hradec Králové",
+   "zapasy": 14,
+   "goly": 4,
+   "asistence": 5,
+   "body": 9,
+   "plus_minus": "2"
+  },
+  {
+   "poradi": 36,
+   "hrac": "Tomáš Nosek",
+   "tym": "Pardubice",
+   "zapasy": 14,
+   "goly": 4,
+   "asistence": 5,
+   "body": 9,
+   "plus_minus": "-4"
+  },
+  {
+   "poradi": 37,
+   "hrac": "Kevin Klíma",
+   "tym": "Hradec Králové",
+   "zapasy": 14,
+   "goly": 4,
+   "asistence": 5,
+   "body": 9,
+   "plus_minus": "-1"
+  },
+  {
+   "poradi": 38,
+   "hrac": "Tomáš Hyka",
+   "tym": "Mladá Boleslav",
+   "zapasy": 14,
+   "goly": 4,
+   "asistence": 5,
+   "body": 9,
+   "plus_minus": "-9"
+  },
+  {
+   "poradi": 39,
+   "hrac": "Jan Mandát",
+   "tym": "Pardubice",
+   "zapasy": 14,
+   "goly": 4,
+   "asistence": 5,
+   "body": 9,
+   "plus_minus": "8"
+  },
+  {
+   "poradi": 40,
+   "hrac": "Matěj Gardoň",
+   "tym": "Mladá Boleslav",
+   "zapasy": 14,
+   "goly": 3,
+   "asistence": 6,
+   "body": 9,
+   "plus_minus": "0"
+  }
+ ]
+}

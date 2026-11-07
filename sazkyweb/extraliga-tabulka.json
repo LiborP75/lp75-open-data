@@ -1,0 +1,163 @@
+{
+ "source": "SazkyWeb.cz",
+ "source_url": "https://sazkyweb.cz/extraliga-2026-27.html",
+ "title": "Tipsport extraliga 2026/27 — tabulka",
+ "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
+ "updated": "2026-11-07T07:04+01:00",
+ "tabulka": [
+  {
+   "poradi": 1,
+   "tym": "Třinec",
+   "zapasy": 17,
+   "vyhry": 13,
+   "vyhry_prodl": 1,
+   "prohry_prodl": 1,
+   "prohry": 2,
+   "skore": "67:39",
+   "body": 42
+  },
+  {
+   "poradi": 2,
+   "tym": "Pardubice",
+   "zapasy": 17,
+   "vyhry": 11,
+   "vyhry_prodl": 1,
+   "prohry_prodl": 1,
+   "prohry": 4,
+   "skore": "64:43",
+   "body": 36
+  },
+  {
+   "poradi": 3,
+   "tym": "Kladno",
+   "zapasy": 17,
+   "vyhry": 7,
+   "vyhry_prodl": 3,
+   "prohry_prodl": 3,
+   "prohry": 4,
+   "skore": "53:49",
+   "body": 30
+  },
+  {
+   "poradi": 4,
+   "tym": "Karlovy Vary",
+   "zapasy": 17,
+   "vyhry": 8,
+   "vyhry_prodl": 2,
+   "prohry_prodl": 0,
+   "prohry": 7,
+   "skore": "41:33",
+   "body": 28
+  },
+  {
+   "poradi": 5,
+   "tym": "České Budějovice",
+   "zapasy": 17,
+   "vyhry": 8,
+   "vyhry_prodl": 0,
+   "prohry_prodl": 2,
+   "prohry": 7,
+   "skore": "45:47",
+   "body": 26
+  },
+  {
+   "poradi": 6,
+   "tym": "Sparta Praha",
+   "zapasy": 17,
+   "vyhry": 7,
+   "vyhry_prodl": 1,
+   "prohry_prodl": 2,
+   "prohry": 7,
+   "skore": "45:40",
+   "body": 25
+  },
+  {
+   "poradi": 7,
+   "tym": "Plzeň",
+   "zapasy": 17,
+   "vyhry": 4,
+   "vyhry_prodl": 6,
+   "prohry_prodl": 1,
+   "prohry": 6,
+   "skore": "44:42",
+   "body": 25
+  },
+  {
+   "poradi": 8,
+   "tym": "Liberec",
+   "zapasy": 16,
+   "vyhry": 6,
+   "vyhry_prodl": 1,
+   "prohry_prodl": 4,
+   "prohry": 5,
+   "skore": "44:43",
+   "body": 24
+  },
+  {
+   "poradi": 9,
+   "tym": "Hradec Králové",
+   "zapasy": 16,
+   "vyhry": 6,
+   "vyhry_prodl": 2,
+   "prohry_prodl": 2,
+   "prohry": 6,
+   "skore": "43:42",
+   "body": 24
+  },
+  {
+   "poradi": 10,
+   "tym": "Kometa Brno",
+   "zapasy": 16,
+   "vyhry": 5,
+   "vyhry_prodl": 3,
+   "prohry_prodl": 3,
+   "prohry": 5,
+   "skore": "43:43",
+   "body": 24
+  },
+  {
+   "poradi": 11,
+   "tym": "Litvínov",
+   "zapasy": 17,
+   "vyhry": 6,
+   "vyhry_prodl": 1,
+   "prohry_prodl": 1,
+   "prohry": 9,
+   "skore": "36:45",
+   "body": 21
+  },
+  {
+   "poradi": 12,
+   "tym": "Mladá Boleslav",
+   "zapasy": 17,
+   "vyhry": 4,
+   "vyhry_prodl": 2,
+   "prohry_prodl": 1,
+   "prohry": 10,
+   "skore": "35:57",
+   "body": 17
+  },
+  {
+   "poradi": 13,
+   "tym": "Vítkovice",
+   "zapasy": 16,
+   "vyhry": 4,
+   "vyhry_prodl": 1,
+   "prohry_prodl": 2,
+   "prohry": 9,
+   "skore": "38:52",
+   "body": 16
+  },
+  {
+   "poradi": 14,
+   "tym": "Olomouc",
+   "zapasy": 17,
+   "vyhry": 3,
+   "vyhry_prodl": 1,
+   "prohry_prodl": 2,
+   "prohry": 11,
+   "skore": "32:55",
+   "body": 13
+  }
+ ]
+}
