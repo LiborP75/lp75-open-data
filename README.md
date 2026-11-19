@@ -11,6 +11,8 @@ The files are copies of the data the sites publish themselves under `/data/`; th
 | File | What it contains | Source page |
 |---|---|---|
 | [`sazkyweb/tipy-lp75.json`](sazkyweb/tipy-lp75.json) | Every tip by LP75 with odds, timestamp and result, plus the overall record | [sazkyweb.cz/bilance-tipu-lp75.html](https://sazkyweb.cz/bilance-tipu-lp75.html) |
+| [`sazkyweb/tipy-lp75.csv`](sazkyweb/tipy-lp75.csv) | The same record as CSV, with a SHA-256 fingerprint of every tip (date|kick-off|match|tip|published) so anyone can check that tips are not edited afterwards | [sazkyweb.cz/bilance-tipu-lp75.html#overeni](https://sazkyweb.cz/bilance-tipu-lp75.html#overeni) |
+| [`eurofootballpicks/model-calibration.json`](eurofootballpicks/model-calibration.json) | Model calibration: backtest on 5,351 matches from 14 leagues — model probability vs how often the outcome happened vs bookmaker closing odds | [eurofootballpicks.com/how-i-pick.html#accuracy](https://eurofootballpicks.com/how-i-pick.html#accuracy) |
 | [`sazkyweb/dnes.json`](sazkyweb/dnes.json) | Today’s sports programme followed by SazkyWeb | [sazkyweb.cz/tipsport-kurzy-dnes.html](https://sazkyweb.cz/tipsport-kurzy-dnes.html) |
 | [`sazkyweb/extraliga-tabulka.json`](sazkyweb/extraliga-tabulka.json) | Czech hockey Extraliga table | [sazkyweb.cz/extraliga-2026-27.html](https://sazkyweb.cz/extraliga-2026-27.html) |
 | [`sazkyweb/extraliga-bodovani.json`](sazkyweb/extraliga-bodovani.json) | Czech hockey Extraliga scoring leaders | [sazkyweb.cz/extraliga-2026-27.html](https://sazkyweb.cz/extraliga-2026-27.html) |
@@ -20,9 +22,6 @@ The files are copies of the data the sites publish themselves under `/data/`; th
 | [`sazkyweb/simulace-sezony.json`](sazkyweb/simulace-sezony.json) | Season simulations (20,000 runs): title, top 4 and relegation chances in the Premier League, LaLiga, Serie A, Bundesliga and Ligue 1 | [sazkyweb.cz/premier-league.html](https://sazkyweb.cz/premier-league.html) |
 | [`sazkyweb/simulace-extraliga.json`](sazkyweb/simulace-extraliga.json) | Czech Extraliga season simulation | [sazkyweb.cz/extraliga-2026-27.html](https://sazkyweb.cz/extraliga-2026-27.html) |
 | [`sazkyweb/simulace-maxa.json`](sazkyweb/simulace-maxa.json) | Maxa liga season simulation | [sazkyweb.cz/maxa-liga-2026-27.html](https://sazkyweb.cz/maxa-liga-2026-27.html) |
-| [`sazkytip/predikce-vikendu.json`](sazkytip/predikce-vikendu.json) | Weekend football predictions (Czech): expected goals and 1X2 chances | [sazkytip.cz](https://sazkytip.cz/) |
-| [`eurofootballpicks/predictions.json`](eurofootballpicks/predictions.json) | Weekend predictions for eight European leagues: xG, 1X2, over 2.5, both teams to score | [eurofootballpicks.com/predictions.html](https://eurofootballpicks.com/predictions.html) |
-| [`eurofootballpicks/fpl-fixtures.json`](eurofootballpicks/fpl-fixtures.json) | FPL fixture ratings: expected goals, clean sheet and win chance for every Premier League team over the next three gameweeks | [eurofootballpicks.com/fpl-fixtures.html](https://eurofootballpicks.com/fpl-fixtures.html) |
 
 All files are UTF-8 JSON. Each file says when it was updated; most also say where the data comes from.
 

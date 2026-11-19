@@ -1,0 +1,80 @@
+{
+ "title": "Model calibration — EuroFootballPicks / SazkyTip / SazkyWeb",
+ "method": "Walk-forward backtest: 5,351 matches from 14 European leagues, 23 Aug 2025 – 16 Nov 2026; for each match the model used only data available before kick-off. Each of the three 1X2 outcomes is binned by the model probability; \"actual\" is how often it happened, \"market\" is the bookmakers' average closing-odds probability without margin.",
+ "updated": "2026-11-19",
+ "license": "CC BY 4.0",
+ "bins": [
+  {
+   "od": 0,
+   "do": 10,
+   "n": 183,
+   "model": 7.7,
+   "skutecne": 6.0,
+   "trh": 9.0
+  },
+  {
+   "od": 10,
+   "do": 20,
+   "n": 1335,
+   "model": 16.2,
+   "skutecne": 15.3,
+   "trh": 17.1
+  },
+  {
+   "od": 20,
+   "do": 30,
+   "n": 6669,
+   "model": 25.9,
+   "skutecne": 25.7,
+   "trh": 25.8
+  },
+  {
+   "od": 30,
+   "do": 40,
+   "n": 3739,
+   "model": 34.2,
+   "skutecne": 33.0,
+   "trh": 33.9
+  },
+  {
+   "od": 40,
+   "do": 50,
+   "n": 2299,
+   "model": 44.6,
+   "skutecne": 45.8,
+   "trh": 44.9
+  },
+  {
+   "od": 50,
+   "do": 60,
+   "n": 1108,
+   "model": 54.3,
+   "skutecne": 55.4,
+   "trh": 54.3
+  },
+  {
+   "od": 60,
+   "do": 70,
+   "n": 499,
+   "model": 64.2,
+   "skutecne": 69.7,
+   "trh": 63.9
+  },
+  {
+   "od": 70,
+   "do": 80,
+   "n": 177,
+   "model": 74.1,
+   "skutecne": 78.0,
+   "trh": 73.5
+  },
+  {
+   "od": 80,
+   "do": 100,
+   "n": 44,
+   "model": 83.4,
+   "skutecne": 75.0,
+   "trh": 80.3
+  }
+ ]
+}
