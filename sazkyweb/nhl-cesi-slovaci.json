@@ -3,7 +3,7 @@
  "source_url": "https://sazkyweb.cz/nhl-2026-27.html",
  "title": "Češi a Slováci v NHL 2026/27",
  "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
- "updated": "2026-11-19T07:46:00+02:00",
+ "updated": "2026-11-23T06:46:00+01:00",
  "poznamka": "Soupisky po škrtech před startem (ČTK, NHL); statistiky sčítané z denních přehledů SazkyWeb.",
  "hraci": [
   {
@@ -13,9 +13,9 @@
    "pozice": "brankář",
    "nhl_id": 8480843,
    "sezona_2026_27": {
-    "zapasy": 12,
-    "zakroky": 241,
-    "strely_proti": 281,
+    "zapasy": 13,
+    "zakroky": 264,
+    "strely_proti": 308,
     "vyhry": 3
    }
   },
@@ -26,10 +26,10 @@
    "pozice": "útočník",
    "nhl_id": 8477956,
    "sezona_2026_27": {
-    "zapasy": 21,
-    "goly": 9,
-    "asistence": 17,
-    "body": 26
+    "zapasy": 23,
+    "goly": 11,
+    "asistence": 20,
+    "body": 31
    }
   },
   {
@@ -39,10 +39,10 @@
    "pozice": "útočník",
    "nhl_id": 8478401,
    "sezona_2026_27": {
-    "zapasy": 20,
-    "goly": 5,
-    "asistence": 10,
-    "body": 15
+    "zapasy": 22,
+    "goly": 6,
+    "asistence": 11,
+    "body": 17
    }
   },
   {
@@ -52,10 +52,10 @@
    "pozice": "útočník",
    "nhl_id": 8483468,
    "sezona_2026_27": {
-    "zapasy": 13,
-    "goly": 2,
+    "zapasy": 15,
+    "goly": 3,
     "asistence": 2,
-    "body": 4
+    "body": 5
    }
   },
   {
@@ -65,10 +65,10 @@
    "pozice": "útočník",
    "nhl_id": 8483609,
    "sezona_2026_27": {
-    "zapasy": 21,
+    "zapasy": 23,
     "goly": 4,
-    "asistence": 4,
-    "body": 8
+    "asistence": 5,
+    "body": 9
    }
   },
   {
@@ -78,10 +78,10 @@
    "pozice": "útočník",
    "nhl_id": 8480039,
    "sezona_2026_27": {
-    "zapasy": 21,
+    "zapasy": 23,
     "goly": 10,
-    "asistence": 14,
-    "body": 24
+    "asistence": 16,
+    "body": 26
    }
   },
   {
@@ -91,7 +91,7 @@
    "pozice": "útočník",
    "nhl_id": 8476889,
    "sezona_2026_27": {
-    "zapasy": 16,
+    "zapasy": 17,
     "goly": 0,
     "asistence": 2,
     "body": 2
@@ -104,10 +104,10 @@
    "pozice": "obránce",
    "nhl_id": 8475462,
    "sezona_2026_27": {
-    "zapasy": 15,
+    "zapasy": 16,
     "goly": 0,
-    "asistence": 0,
-    "body": 0
+    "asistence": 1,
+    "body": 1
    }
   },
   {
@@ -130,10 +130,10 @@
    "pozice": "brankář",
    "nhl_id": 8482487,
    "sezona_2026_27": {
-    "zapasy": 8,
-    "zakroky": 179,
-    "strely_proti": 210,
-    "vyhry": 3
+    "zapasy": 9,
+    "zakroky": 205,
+    "strely_proti": 237,
+    "vyhry": 4
    }
   },
   {
@@ -143,10 +143,10 @@
    "pozice": "útočník",
    "nhl_id": 8476292,
    "sezona_2026_27": {
-    "zapasy": 19,
-    "goly": 2,
+    "zapasy": 21,
+    "goly": 4,
     "asistence": 3,
-    "body": 5
+    "body": 7
    }
   },
   {
@@ -182,10 +182,10 @@
    "pozice": "brankář",
    "nhl_id": 8478435,
    "sezona_2026_27": {
-    "zapasy": 12,
-    "zakroky": 278,
-    "strely_proti": 317,
-    "vyhry": 3
+    "zapasy": 13,
+    "zakroky": 298,
+    "strely_proti": 340,
+    "vyhry": 4
    }
   },
   {
@@ -221,7 +221,7 @@
    "pozice": "útočník",
    "nhl_id": 8480078,
    "sezona_2026_27": {
-    "zapasy": 10,
+    "zapasy": 11,
     "goly": 3,
     "asistence": 2,
     "body": 5
@@ -234,10 +234,10 @@
    "pozice": "obránce",
    "nhl_id": 8479425,
    "sezona_2026_27": {
-    "zapasy": 23,
+    "zapasy": 24,
     "goly": 1,
-    "asistence": 13,
-    "body": 14
+    "asistence": 14,
+    "body": 15
    }
   },
   {
@@ -247,10 +247,10 @@
    "pozice": "útočník",
    "nhl_id": 8476881,
    "sezona_2026_27": {
-    "zapasy": 22,
-    "goly": 9,
-    "asistence": 8,
-    "body": 17
+    "zapasy": 24,
+    "goly": 10,
+    "asistence": 10,
+    "body": 20
    }
   },
   {
@@ -273,7 +273,7 @@
    "pozice": "útočník",
    "nhl_id": 8481028,
    "sezona_2026_27": {
-    "zapasy": 21,
+    "zapasy": 23,
     "goly": 4,
     "asistence": 5,
     "body": 9
@@ -286,10 +286,10 @@
    "pozice": "obránce",
    "nhl_id": 8483495,
    "sezona_2026_27": {
-    "zapasy": 21,
-    "goly": 1,
-    "asistence": 7,
-    "body": 8
+    "zapasy": 23,
+    "goly": 2,
+    "asistence": 8,
+    "body": 10
    }
   },
   {
@@ -299,10 +299,10 @@
    "pozice": "útočník",
    "nhl_id": 8483515,
    "sezona_2026_27": {
-    "zapasy": 21,
+    "zapasy": 24,
     "goly": 2,
-    "asistence": 11,
-    "body": 13
+    "asistence": 12,
+    "body": 14
    }
   },
   {
@@ -320,7 +320,7 @@
    "pozice": "útočník",
    "nhl_id": 8484164,
    "sezona_2026_27": {
-    "zapasy": 21,
+    "zapasy": 23,
     "goly": 5,
     "asistence": 2,
     "body": 7
@@ -333,10 +333,10 @@
    "pozice": "obránce",
    "nhl_id": 8478416,
    "sezona_2026_27": {
-    "zapasy": 18,
+    "zapasy": 19,
     "goly": 0,
-    "asistence": 7,
-    "body": 7
+    "asistence": 8,
+    "body": 8
    }
   },
   {
@@ -346,7 +346,7 @@
    "pozice": "obránce",
    "nhl_id": 8480796,
    "sezona_2026_27": {
-    "zapasy": 19,
+    "zapasy": 21,
     "goly": 0,
     "asistence": 4,
     "body": 4

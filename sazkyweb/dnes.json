@@ -1,42 +1,42 @@
 {
  "source": "SazkyWeb.cz",
  "source_url": "https://sazkyweb.cz/tipsport-kurzy-dnes.html",
- "title": "Dnes hrají — program 2026-11-19",
+ "title": "Dnes hrají — program 2026-11-23",
  "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
- "updated": "2026-11-19T07:46:00+02:00",
- "datum": "2026-11-19",
+ "updated": "2026-11-23T06:46:00+01:00",
+ "datum": "2026-11-23",
  "zapasy": [
   {
-   "cas": "10:00",
-   "soutez": "esport-cs2",
-   "domaci": "Team 33",
-   "hoste": "Ex-Rustec",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "16:00",
-   "soutez": "esport-cs2",
-   "domaci": "ex-INOX Division",
-   "hoste": "FORZE Reload",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "17:30",
-   "soutez": "Tipsport extraliga",
-   "domaci": "České Budějovice",
-   "hoste": "Sparta Praha",
-   "tv_tipsport": true,
-   "stranka": "https://sazkyweb.cz/extraliga-2026-27.html"
-  },
-  {
    "cas": "19:00",
-   "soutez": "esport-cs2",
-   "domaci": "aimclub",
-   "hoste": "Nexus Gaming",
+   "soutez": "Ekstraklasa",
+   "domaci": "Wieczysta Kraków",
+   "hoste": "Motor Lublin",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/ekstraklasa.html"
+  },
+  {
+   "cas": "20:45",
+   "soutez": "Serie A",
+   "domaci": "Monza",
+   "hoste": "Fiorentina",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/serie-a.html"
+  },
+  {
+   "cas": "21:00",
+   "soutez": "La Liga",
+   "domaci": "Levante",
+   "hoste": "Elche",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/la-liga.html"
+  },
+  {
+   "cas": "21:00",
+   "soutez": "Premier League",
+   "domaci": "Brentford",
+   "hoste": "Everton",
    "tv_tipsport": false,
-   "stranka": null
+   "stranka": "https://sazkyweb.cz/premier-league.html"
   }
  ]
 }
