@@ -3,7 +3,7 @@
  "source_url": "https://sazkyweb.cz/maxa-liga-2026-27.html",
  "title": "Maxa liga 2026/27 — tabulka",
  "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
- "updated": "2026-11-23T06:46:00+01:00",
+ "updated": "2026-11-25T06:47:00+01:00",
  "tabulka": [
   {
    "poradi": 1,
@@ -85,24 +85,24 @@
   {
    "poradi": 8,
    "tym": "Frýdek-Místek",
-   "zapasy": 25,
+   "zapasy": 26,
    "vyhry": 7,
-   "vyhry_prodl": 4,
+   "vyhry_prodl": 5,
    "prohry_prodl": 4,
    "prohry": 10,
-   "skore": "72:78",
-   "body": 33
+   "skore": "77:82",
+   "body": 35
   },
   {
    "poradi": 9,
    "tym": "Slavia Praha",
-   "zapasy": 25,
+   "zapasy": 26,
    "vyhry": 6,
    "vyhry_prodl": 4,
-   "prohry_prodl": 3,
+   "prohry_prodl": 4,
    "prohry": 12,
-   "skore": "68:77",
-   "body": 29
+   "skore": "72:82",
+   "body": 30
   },
   {
    "poradi": 10,

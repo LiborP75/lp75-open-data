@@ -4,157 +4,157 @@
  "title": "Tipsport extraliga 2026/27 — kanadské bodování",
  "zdroj": "oficiální statistiky hokej.cz",
  "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
- "updated": "2026-11-23T06:46:00+01:00",
+ "updated": "2026-11-25T06:47:00+01:00",
  "bodovani": [
   {
    "poradi": 1,
    "hrac": "David Tomášek",
    "klub": "Pardubice",
-   "zapasy": 21,
-   "goly": 9,
-   "asistence": 17,
-   "body": 26,
-   "plus_minus": "7"
+   "zapasy": 22,
+   "goly": 10,
+   "asistence": 18,
+   "body": 28,
+   "plus_minus": "8"
   },
   {
    "poradi": 2,
    "hrac": "Libor Hudáček",
    "klub": "Třinec",
-   "zapasy": 20,
-   "goly": 7,
-   "asistence": 19,
-   "body": 26,
-   "plus_minus": "11"
+   "zapasy": 21,
+   "goly": 8,
+   "asistence": 20,
+   "body": 28,
+   "plus_minus": "14"
   },
   {
    "poradi": 3,
    "hrac": "Roman Červenka",
    "klub": "Pardubice",
-   "zapasy": 18,
-   "goly": 5,
-   "asistence": 19,
-   "body": 24,
-   "plus_minus": "3"
+   "zapasy": 19,
+   "goly": 6,
+   "asistence": 21,
+   "body": 27,
+   "plus_minus": "5"
   },
   {
    "poradi": 4,
    "hrac": "Martin Růžička",
    "klub": "Třinec",
-   "zapasy": 21,
+   "zapasy": 22,
    "goly": 6,
    "asistence": 17,
    "body": 23,
-   "plus_minus": "5"
-  },
-  {
-   "poradi": 5,
-   "hrac": "Filip Chlapík",
-   "klub": "Sparta Praha",
-   "zapasy": 17,
-   "goly": 4,
-   "asistence": 18,
-   "body": 22,
-   "plus_minus": "9"
-  },
-  {
-   "poradi": 6,
-   "hrac": "Róbert Lantoši",
-   "klub": "České Budějovice",
-   "zapasy": 21,
-   "goly": 3,
-   "asistence": 18,
-   "body": 21,
-   "plus_minus": "-2"
-  },
-  {
-   "poradi": 7,
-   "hrac": "Matěj Stránský",
-   "klub": "Pardubice",
-   "zapasy": 21,
-   "goly": 7,
-   "asistence": 13,
-   "body": 20,
    "plus_minus": "4"
   },
   {
-   "poradi": 8,
-   "hrac": "Nick Olesen",
+   "poradi": 5,
+   "hrac": "Róbert Lantoši",
    "klub": "České Budějovice",
-   "zapasy": 20,
-   "goly": 13,
-   "asistence": 6,
-   "body": 19,
-   "plus_minus": "1"
+   "zapasy": 22,
+   "goly": 3,
+   "asistence": 20,
+   "body": 23,
+   "plus_minus": "-2"
   },
   {
-   "poradi": 9,
-   "hrac": "Jiří Smejkal",
+   "poradi": 6,
+   "hrac": "Matěj Stránský",
    "klub": "Pardubice",
-   "zapasy": 21,
-   "goly": 11,
-   "asistence": 8,
-   "body": 19,
+   "zapasy": 22,
+   "goly": 8,
+   "asistence": 14,
+   "body": 22,
    "plus_minus": "5"
   },
   {
+   "poradi": 7,
+   "hrac": "Filip Chlapík",
+   "klub": "Sparta Praha",
+   "zapasy": 18,
+   "goly": 4,
+   "asistence": 18,
+   "body": 22,
+   "plus_minus": "7"
+  },
+  {
+   "poradi": 8,
+   "hrac": "Marko Daňo",
+   "klub": "Třinec",
+   "zapasy": 22,
+   "goly": 9,
+   "asistence": 12,
+   "body": 21,
+   "plus_minus": "10"
+  },
+  {
+   "poradi": 9,
+   "hrac": "Nick Olesen",
+   "klub": "České Budějovice",
+   "zapasy": 21,
+   "goly": 13,
+   "asistence": 7,
+   "body": 20,
+   "plus_minus": "1"
+  },
+  {
    "poradi": 10,
+   "hrac": "Jiří Smejkal",
+   "klub": "Pardubice",
+   "zapasy": 22,
+   "goly": 12,
+   "asistence": 8,
+   "body": 20,
+   "plus_minus": "5"
+  },
+  {
+   "poradi": 11,
    "hrac": "Niko Ojamäki",
    "klub": "Kladno",
-   "zapasy": 19,
+   "zapasy": 20,
    "goly": 10,
    "asistence": 9,
    "body": 19,
    "plus_minus": "9"
   },
   {
-   "poradi": 11,
-   "hrac": "Marko Daňo",
-   "klub": "Třinec",
-   "zapasy": 21,
-   "goly": 9,
-   "asistence": 10,
+   "poradi": 12,
+   "hrac": "Nicholas Jones",
+   "klub": "Karlovy Vary",
+   "zapasy": 16,
+   "goly": 7,
+   "asistence": 12,
+   "body": 19,
+   "plus_minus": "3"
+  },
+  {
+   "poradi": 13,
+   "hrac": "Daniel Audette",
+   "klub": "Kladno",
+   "zapasy": 22,
+   "goly": 5,
+   "asistence": 14,
    "body": 19,
    "plus_minus": "8"
   },
   {
-   "poradi": 12,
-   "hrac": "Daniel Audette",
-   "klub": "Kladno",
-   "zapasy": 21,
-   "goly": 5,
-   "asistence": 13,
-   "body": 18,
-   "plus_minus": "8"
-  },
-  {
-   "poradi": 13,
+   "poradi": 14,
    "hrac": "Daniel Voženílek",
    "klub": "Třinec",
-   "zapasy": 21,
+   "zapasy": 22,
    "goly": 9,
-   "asistence": 8,
-   "body": 17,
-   "plus_minus": "6"
-  },
-  {
-   "poradi": 14,
-   "hrac": "Michael Špaček",
-   "klub": "Sparta Praha",
-   "zapasy": 21,
-   "goly": 8,
    "asistence": 9,
-   "body": 17,
-   "plus_minus": "12"
+   "body": 18,
+   "plus_minus": "5"
   },
   {
    "poradi": 15,
-   "hrac": "Nicholas Jones",
-   "klub": "Karlovy Vary",
-   "zapasy": 15,
-   "goly": 6,
-   "asistence": 11,
-   "body": 17,
-   "plus_minus": "5"
+   "hrac": "Jan Štencel",
+   "klub": "České Budějovice",
+   "zapasy": 22,
+   "goly": 5,
+   "asistence": 13,
+   "body": 18,
+   "plus_minus": "7"
   }
  ]
 }
