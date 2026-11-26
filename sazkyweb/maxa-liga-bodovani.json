@@ -3,11 +3,20 @@
  "source_url": "https://sazkyweb.cz/maxa-liga-2026-27.html#bodovani",
  "title": "Maxa liga 2026/27 — kanadské bodování",
  "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
- "updated": "2026-11-24T23:06:00+01:00",
+ "updated": "2026-11-25T23:07:00+01:00",
  "zdroj": "oficiální statistiky ČSLH (czehockey.cz)",
  "bodovani": [
   {
    "poradi": 1,
+   "hrac": "Pavel Klhůfek",
+   "klub": "Vsetín",
+   "zapasy": 23,
+   "goly": 7,
+   "asistence": 27,
+   "body": 34
+  },
+  {
+   "poradi": 2,
    "hrac": "Tomáš Šmerha",
    "klub": "Vsetín",
    "zapasy": 23,
@@ -16,22 +25,13 @@
    "body": 33
   },
   {
-   "poradi": 2,
-   "hrac": "Pavel Klhůfek",
-   "klub": "Vsetín",
-   "zapasy": 22,
-   "goly": 6,
-   "asistence": 26,
-   "body": 32
-  },
-  {
    "poradi": 3,
    "hrac": "Petr Straka",
    "klub": "Vsetín",
-   "zapasy": 24,
+   "zapasy": 25,
    "goly": 18,
-   "asistence": 13,
-   "body": 31
+   "asistence": 14,
+   "body": 32
   },
   {
    "poradi": 4,
@@ -44,6 +44,24 @@
   },
   {
    "poradi": 5,
+   "hrac": "Petr Mrázek",
+   "klub": "Přerov",
+   "zapasy": 26,
+   "goly": 7,
+   "asistence": 18,
+   "body": 25
+  },
+  {
+   "poradi": 6,
+   "hrac": "Pavel Novák",
+   "klub": "Tábor",
+   "zapasy": 23,
+   "goly": 12,
+   "asistence": 12,
+   "body": 24
+  },
+  {
+   "poradi": 7,
    "hrac": "Cole Coskey",
    "klub": "Chomutov",
    "zapasy": 24,
@@ -52,34 +70,52 @@
    "body": 24
   },
   {
-   "poradi": 6,
-   "hrac": "Petr Mrázek",
-   "klub": "Přerov",
+   "poradi": 8,
+   "hrac": "Ondřej Slováček",
+   "klub": "Vsetín",
    "zapasy": 25,
-   "goly": 7,
-   "asistence": 17,
-   "body": 24
-  },
-  {
-   "poradi": 7,
-   "hrac": "Pavel Novák",
-   "klub": "Tábor",
-   "zapasy": 22,
-   "goly": 11,
-   "asistence": 12,
+   "goly": 0,
+   "asistence": 23,
    "body": 23
   },
   {
-   "poradi": 8,
+   "poradi": 9,
+   "hrac": "Šimon Jenáček",
+   "klub": "Vsetín",
+   "zapasy": 25,
+   "goly": 4,
+   "asistence": 18,
+   "body": 22
+  },
+  {
+   "poradi": 10,
    "hrac": "Martin Dočekal",
    "klub": "Třebíč",
-   "zapasy": 25,
+   "zapasy": 26,
    "goly": 13,
    "asistence": 8,
    "body": 21
   },
   {
-   "poradi": 9,
+   "poradi": 11,
+   "hrac": "Richard Cachnín",
+   "klub": "Jihlava",
+   "zapasy": 24,
+   "goly": 11,
+   "asistence": 10,
+   "body": 21
+  },
+  {
+   "poradi": 12,
+   "hrac": "Filip Suchý",
+   "klub": "Vsetín",
+   "zapasy": 25,
+   "goly": 11,
+   "asistence": 10,
+   "body": 21
+  },
+  {
+   "poradi": 13,
    "hrac": "Jake Gricius",
    "klub": "Slavia Praha",
    "zapasy": 26,
@@ -88,34 +124,25 @@
    "body": 21
   },
   {
-   "poradi": 10,
-   "hrac": "Šimon Jenáček",
-   "klub": "Vsetín",
-   "zapasy": 24,
-   "goly": 4,
-   "asistence": 17,
+   "poradi": 14,
+   "hrac": "Tomáš Čachotský",
+   "klub": "Jihlava",
+   "zapasy": 25,
+   "goly": 8,
+   "asistence": 13,
    "body": 21
   },
   {
-   "poradi": 11,
-   "hrac": "Ondřej Slováček",
-   "klub": "Vsetín",
-   "zapasy": 24,
-   "goly": 0,
-   "asistence": 21,
-   "body": 21
-  },
-  {
-   "poradi": 12,
+   "poradi": 15,
    "hrac": "Martin Novák",
    "klub": "Přerov",
-   "zapasy": 25,
+   "zapasy": 26,
    "goly": 11,
    "asistence": 9,
    "body": 20
   },
   {
-   "poradi": 13,
+   "poradi": 16,
    "hrac": "František Formánek",
    "klub": "Pardubice B",
    "zapasy": 25,
@@ -124,67 +151,40 @@
    "body": 20
   },
   {
-   "poradi": 14,
-   "hrac": "Tomáš Čachotský",
-   "klub": "Jihlava",
-   "zapasy": 24,
+   "poradi": 17,
+   "hrac": "Matěj Psota",
+   "klub": "Třebíč",
+   "zapasy": 26,
    "goly": 8,
    "asistence": 12,
    "body": 20
   },
   {
-   "poradi": 15,
+   "poradi": 18,
+   "hrac": "Jakub Doktor",
+   "klub": "Zlín",
+   "zapasy": 26,
+   "goly": 8,
+   "asistence": 12,
+   "body": 20
+  },
+  {
+   "poradi": 19,
    "hrac": "Martin Hanzl",
    "klub": "Chomutov",
-   "zapasy": 23,
+   "zapasy": 24,
    "goly": 5,
    "asistence": 15,
    "body": 20
   },
   {
-   "poradi": 16,
-   "hrac": "Richard Cachnín",
-   "klub": "Jihlava",
-   "zapasy": 23,
-   "goly": 9,
-   "asistence": 10,
-   "body": 19
-  },
-  {
-   "poradi": 17,
-   "hrac": "Filip Suchý",
-   "klub": "Vsetín",
-   "zapasy": 24,
-   "goly": 9,
-   "asistence": 10,
-   "body": 19
-  },
-  {
-   "poradi": 18,
-   "hrac": "Matouš Menšík",
-   "klub": "Jihlava",
-   "zapasy": 24,
-   "goly": 9,
-   "asistence": 10,
-   "body": 19
-  },
-  {
-   "poradi": 19,
-   "hrac": "Matěj Psota",
-   "klub": "Třebíč",
-   "zapasy": 25,
-   "goly": 8,
-   "asistence": 11,
-   "body": 19
-  },
-  {
    "poradi": 20,
-   "hrac": "Jakub Doktor",
-   "klub": "Zlín",
-   "zapasy": 25,
-   "goly": 7,
-   "asistence": 12,
-   "body": 19
+   "hrac": "Lukáš Pech",
+   "klub": "Tábor",
+   "zapasy": 21,
+   "goly": 3,
+   "asistence": 17,
+   "body": 20
   }
  ]
 }

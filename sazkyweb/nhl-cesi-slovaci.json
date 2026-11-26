@@ -3,7 +3,7 @@
  "source_url": "https://sazkyweb.cz/nhl-2026-27.html",
  "title": "Češi a Slováci v NHL 2026/27",
  "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
- "updated": "2026-11-25T06:47:00+01:00",
+ "updated": "2026-11-26T06:47:00+01:00",
  "poznamka": "Soupisky po škrtech před startem (ČTK, NHL); statistiky sčítané z denních přehledů SazkyWeb.",
  "hraci": [
   {
@@ -247,7 +247,7 @@
    "pozice": "útočník",
    "nhl_id": 8476881,
    "sezona_2026_27": {
-    "zapasy": 24,
+    "zapasy": 25,
     "goly": 10,
     "asistence": 10,
     "body": 20

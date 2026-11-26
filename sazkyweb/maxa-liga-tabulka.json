@@ -3,43 +3,65 @@
  "source_url": "https://sazkyweb.cz/maxa-liga-2026-27.html",
  "title": "Maxa liga 2026/27 — tabulka",
  "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
- "updated": "2026-11-25T06:47:00+01:00",
+ "updated": "2026-11-26T06:47:00+01:00",
  "tabulka": [
   {
    "poradi": 1,
    "tym": "Vsetín",
-   "zapasy": 24,
-   "vyhry": 17,
+   "zapasy": 25,
+   "vyhry": 18,
    "vyhry_prodl": 3,
    "prohry_prodl": 3,
    "prohry": 1,
-   "skore": "99:44",
-   "body": 60
+   "skore": "106:50",
+   "body": 63
   },
   {
    "poradi": 2,
    "tym": "Třebíč",
-   "zapasy": 25,
+   "zapasy": 26,
    "vyhry": 13,
-   "vyhry_prodl": 3,
+   "vyhry_prodl": 4,
    "prohry_prodl": 4,
    "prohry": 5,
-   "skore": "69:53",
-   "body": 49
+   "skore": "72:55",
+   "body": 51
   },
   {
    "poradi": 3,
    "tym": "Litoměřice",
-   "zapasy": 23,
+   "zapasy": 24,
    "vyhry": 14,
    "vyhry_prodl": 1,
-   "prohry_prodl": 3,
+   "prohry_prodl": 4,
    "prohry": 5,
-   "skore": "87:57",
-   "body": 47
+   "skore": "89:60",
+   "body": 48
   },
   {
    "poradi": 4,
+   "tym": "Jihlava",
+   "zapasy": 25,
+   "vyhry": 12,
+   "vyhry_prodl": 4,
+   "prohry_prodl": 3,
+   "prohry": 6,
+   "skore": "87:66",
+   "body": 47
+  },
+  {
+   "poradi": 5,
+   "tym": "Tábor",
+   "zapasy": 25,
+   "vyhry": 12,
+   "vyhry_prodl": 4,
+   "prohry_prodl": 3,
+   "prohry": 6,
+   "skore": "69:55",
+   "body": 47
+  },
+  {
+   "poradi": 6,
    "tym": "Pardubice B",
    "zapasy": 25,
    "vyhry": 12,
@@ -48,28 +70,6 @@
    "prohry": 7,
    "skore": "82:70",
    "body": 47
-  },
-  {
-   "poradi": 5,
-   "tym": "Jihlava",
-   "zapasy": 24,
-   "vyhry": 11,
-   "vyhry_prodl": 4,
-   "prohry_prodl": 3,
-   "prohry": 6,
-   "skore": "82:65",
-   "body": 44
-  },
-  {
-   "poradi": 6,
-   "tym": "Tábor",
-   "zapasy": 24,
-   "vyhry": 11,
-   "vyhry_prodl": 4,
-   "prohry_prodl": 3,
-   "prohry": 6,
-   "skore": "66:54",
-   "body": 44
   },
   {
    "poradi": 7,
@@ -107,56 +107,56 @@
   {
    "poradi": 10,
    "tym": "Přerov",
-   "zapasy": 25,
+   "zapasy": 26,
    "vyhry": 9,
    "vyhry_prodl": 1,
-   "prohry_prodl": 0,
+   "prohry_prodl": 1,
    "prohry": 15,
-   "skore": "55:87",
-   "body": 29
+   "skore": "58:91",
+   "body": 30
   },
   {
    "poradi": 11,
-   "tym": "Zlín",
-   "zapasy": 25,
-   "vyhry": 5,
+   "tym": "Chomutov",
+   "zapasy": 26,
+   "vyhry": 6,
    "vyhry_prodl": 3,
-   "prohry_prodl": 5,
-   "prohry": 12,
-   "skore": "62:78",
-   "body": 26
+   "prohry_prodl": 3,
+   "prohry": 14,
+   "skore": "70:95",
+   "body": 27
   },
   {
    "poradi": 12,
-   "tym": "Chomutov",
-   "zapasy": 25,
-   "vyhry": 6,
-   "vyhry_prodl": 2,
-   "prohry_prodl": 3,
-   "prohry": 14,
-   "skore": "66:92",
-   "body": 25
+   "tym": "Zlín",
+   "zapasy": 26,
+   "vyhry": 5,
+   "vyhry_prodl": 3,
+   "prohry_prodl": 5,
+   "prohry": 13,
+   "skore": "68:85",
+   "body": 26
   },
   {
    "poradi": 13,
    "tym": "Havířov",
-   "zapasy": 25,
+   "zapasy": 26,
    "vyhry": 5,
    "vyhry_prodl": 2,
    "prohry_prodl": 5,
-   "prohry": 13,
-   "skore": "53:78",
+   "prohry": 14,
+   "skore": "54:81",
    "body": 24
   },
   {
    "poradi": 14,
    "tym": "Sokolov",
-   "zapasy": 25,
+   "zapasy": 26,
    "vyhry": 4,
    "vyhry_prodl": 2,
    "prohry_prodl": 2,
-   "prohry": 17,
-   "skore": "53:89",
+   "prohry": 18,
+   "skore": "54:94",
    "body": 18
   }
  ]
