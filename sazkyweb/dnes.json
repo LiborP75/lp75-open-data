@@ -1,434 +1,250 @@
 {
  "source": "SazkyWeb.cz",
  "source_url": "https://sazkyweb.cz/tipsport-kurzy-dnes.html",
- "title": "Dnes hrají — program 2026-11-26",
+ "title": "Dnes hrají — program 2026-11-27",
  "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
- "updated": "2026-11-26T06:47:00+01:00",
- "datum": "2026-11-26",
+ "updated": "2026-11-27T06:47:00+01:00",
+ "datum": "2026-11-27",
  "zapasy": [
   {
-   "cas": "06:45",
-   "soutez": "esport-cs2",
-   "domaci": "Heroic",
-   "hoste": "FaZe Clan",
-   "tv_tipsport": false,
-   "stranka": null
+   "cas": "16:00",
+   "soutez": "Chance Národní Liga",
+   "domaci": "Jihlava",
+   "hoste": "Třinec",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/chance-narodni-liga.html"
   },
   {
-   "cas": "07:00",
-   "soutez": "esport-cs2",
-   "domaci": "M80",
-   "hoste": "Eternal Fire",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "09:30",
-   "soutez": "esport-cs2",
-   "domaci": "Lynn Vision Gaming",
-   "hoste": "PariVision",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "09:30",
-   "soutez": "esport-cs2",
-   "domaci": "100 Thieves",
-   "hoste": "9z Team",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "10:00",
+   "cas": "16:00",
    "soutez": "Davis Cup - finále",
-   "domaci": "V.Británie",
-   "hoste": "Německo",
+   "domaci": "Itálie",
+   "hoste": "Česko",
    "tv_tipsport": true,
    "stranka": "https://sazkyweb.cz/davis-cup-2026-cesko-usa.html"
-  },
-  {
-   "cas": "10:00",
-   "soutez": "esport-cs2",
-   "domaci": "Quintessence",
-   "hoste": "Saw Youngsters",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "10:00",
-   "soutez": "esport-cs2",
-   "domaci": "FORZE Reload",
-   "hoste": "Drama eSports",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "12:00",
-   "soutez": "esport-cs2",
-   "domaci": "Wildcard Gaming",
-   "hoste": "Chinggis Warriors",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "12:00",
-   "soutez": "esport-cs2",
-   "domaci": "Imperial Esports",
-   "hoste": "Team Liquid",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "13:00",
-   "soutez": "esport-cs2",
-   "domaci": "Hype Tech",
-   "hoste": "XMETA",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "13:00",
-   "soutez": "esport-cs2",
-   "domaci": "Nordic Partners",
-   "hoste": "Drama eSports",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "16:00",
-   "soutez": "esport-cs2",
-   "domaci": "BakS eSports",
-   "hoste": "Nordic Partners",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "16:00",
-   "soutez": "esport-cs2",
-   "domaci": "Team Spirit Academy",
-   "hoste": "Noir Verse",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "16:30",
-   "soutez": "Konferenční liga",
-   "domaci": "Kairat Almaty",
-   "hoste": "Mjällby",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
   },
   {
    "cas": "17:00",
-   "soutez": "Davis Cup - finále",
-   "domaci": "Rakousko",
-   "hoste": "Španělsko",
+   "soutez": "Tipsport extraliga",
+   "domaci": "Třinec",
+   "hoste": "Pardubice",
    "tv_tipsport": true,
-   "stranka": "https://sazkyweb.cz/davis-cup-2026-cesko-usa.html"
+   "stranka": "https://sazkyweb.cz/extraliga-2026-27.html"
   },
   {
-   "cas": "18:15",
-   "soutez": "Maxa liga",
-   "domaci": "Pardubice B",
-   "hoste": "Kolín",
+   "cas": "17:30",
+   "soutez": "Tipsport extraliga",
+   "domaci": "Litvínov",
+   "hoste": "Mladá Boleslav",
    "tv_tipsport": true,
-   "stranka": "https://sazkyweb.cz/maxa-liga-2026-27.html"
+   "stranka": "https://sazkyweb.cz/extraliga-2026-27.html"
   },
   {
-   "cas": "18:45",
-   "soutez": "Evropská liga",
-   "domaci": "Viktoria Plzeň",
-   "hoste": "Benfica Lisboa",
+   "cas": "17:30",
+   "soutez": "Tipsport extraliga",
+   "domaci": "Plzeň",
+   "hoste": "Kometa Brno",
    "tv_tipsport": true,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
+   "stranka": "https://sazkyweb.cz/extraliga-2026-27.html"
   },
   {
-   "cas": "18:45",
-   "soutez": "Evropská liga",
-   "domaci": "Olympiakos",
-   "hoste": "AC Milan",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Evropská liga",
-   "domaci": "Marseille",
-   "hoste": "Levski Sofia",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Evropská liga",
-   "domaci": "Union St. Gilloise",
-   "hoste": "Lech Poznaň",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Evropská liga",
-   "domaci": "Dinamo Zagreb",
-   "hoste": "Leverkusen",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Evropská liga",
-   "domaci": "Salzburg",
-   "hoste": "Ararat Armenia",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Evropská liga",
-   "domaci": "Besiktas",
-   "hoste": "Hapoel Beer Sheva",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Evropská liga",
-   "domaci": "Celta Vigo",
-   "hoste": "Bournemouth",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Konferenční liga",
-   "domaci": "Ajax Amsterdam",
-   "hoste": "Thun",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Konferenční liga",
-   "domaci": "Pafos FC",
-   "hoste": "Midtjylland",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Konferenční liga",
-   "domaci": "Brighton",
-   "hoste": "CS Universitatea Craiova",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Konferenční liga",
-   "domaci": "Brann Bergen",
-   "hoste": "AGF Aarhus",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Konferenční liga",
-   "domaci": "Heart of Midlothian",
-   "hoste": "Monaco",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Konferenční liga",
-   "domaci": "Kauno Žalgiris",
-   "hoste": "Riga FC",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Konferenční liga",
-   "domaci": "Iberia 1999",
-   "hoste": "Getafe",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Konferenční liga",
-   "domaci": "Egnatia Rrogozhine",
-   "hoste": "Lincoln Red Imps",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "18:45",
-   "soutez": "Konferenční liga",
-   "domaci": "Jablonec",
-   "hoste": "Lugano",
+   "cas": "17:30",
+   "soutez": "Tipsport extraliga",
+   "domaci": "Vítkovice",
+   "hoste": "Sparta Praha",
    "tv_tipsport": true,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
+   "stranka": "https://sazkyweb.cz/extraliga-2026-27.html"
   },
   {
-   "cas": "19:00",
-   "soutez": "esport-cs2",
-   "domaci": "Lir",
-   "hoste": "Team Spirit Academy",
+   "cas": "18:00",
+   "soutez": "Chance Liga",
+   "domaci": "Artis Brno",
+   "hoste": "Slovácko",
    "tv_tipsport": false,
-   "stranka": null
+   "stranka": "https://sazkyweb.cz/chance-liga/prehled.html"
   },
   {
-   "cas": "19:00",
-   "soutez": "esport-cs2",
-   "domaci": "Donstu Esports",
-   "hoste": "Sokerorg",
-   "tv_tipsport": false,
-   "stranka": null
-  },
-  {
-   "cas": "21:00",
-   "soutez": "Evropská liga",
-   "domaci": "Sparta Praha",
-   "hoste": "Alkmaar",
+   "cas": "18:00",
+   "soutez": "Chance Národní Liga",
+   "domaci": "Dukla Praha",
+   "hoste": "Táborsko",
    "tv_tipsport": true,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
+   "stranka": "https://sazkyweb.cz/chance-narodni-liga.html"
+  },
+  {
+   "cas": "18:00",
+   "soutez": "Chance Národní Liga",
+   "domaci": "Ústí nad Labem",
+   "hoste": "Kroměříž",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/chance-narodni-liga.html"
+  },
+  {
+   "cas": "18:00",
+   "soutez": "Ekstraklasa",
+   "domaci": "Czestochowa",
+   "hoste": "Piast Gliwice",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/ekstraklasa.html"
+  },
+  {
+   "cas": "18:00",
+   "soutez": "Tipsport extraliga",
+   "domaci": "Kladno",
+   "hoste": "Karlovy Vary",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/extraliga-2026-27.html"
+  },
+  {
+   "cas": "18:00",
+   "soutez": "Tipsport extraliga",
+   "domaci": "Olomouc",
+   "hoste": "Hradec Králové",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/extraliga-2026-27.html"
+  },
+  {
+   "cas": "19:07",
+   "soutez": "NHL",
+   "domaci": "Boston Bruins",
+   "hoste": "Toronto Maple Leafs",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
+  },
+  {
+   "cas": "19:07",
+   "soutez": "NHL",
+   "domaci": "Nashville Predators",
+   "hoste": "Utah Mammoth",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
+  },
+  {
+   "cas": "19:07",
+   "soutez": "NHL",
+   "domaci": "New Jersey Devils",
+   "hoste": "Calgary Flames",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
+  },
+  {
+   "cas": "20:07",
+   "soutez": "NHL",
+   "domaci": "St.Louis Blues",
+   "hoste": "Dallas Stars",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
+  },
+  {
+   "cas": "20:30",
+   "soutez": "Bundesliga",
+   "domaci": "Bremen",
+   "hoste": "Mönchengladbach",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/bundesliga.html"
+  },
+  {
+   "cas": "20:30",
+   "soutez": "Ekstraklasa",
+   "domaci": "Zabrze",
+   "hoste": "Wisla Plock",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/ekstraklasa.html"
+  },
+  {
+   "cas": "20:45",
+   "soutez": "Ligue 1",
+   "domaci": "Brest",
+   "hoste": "Paris FC",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/ligue-1.html"
+  },
+  {
+   "cas": "20:45",
+   "soutez": "Serie A",
+   "domaci": "Venezia",
+   "hoste": "Bologna",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/serie-a.html"
   },
   {
    "cas": "21:00",
-   "soutez": "Evropská liga",
-   "domaci": "Juventus Torino",
-   "hoste": "Omonia Nicosia",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
+   "soutez": "La Liga",
+   "domaci": "Levante",
+   "hoste": "Racing Santander",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/la-liga.html"
   },
   {
    "cas": "21:00",
-   "soutez": "Evropská liga",
-   "domaci": "Ferencvárosi",
-   "hoste": "Celje",
+   "soutez": "Premier League",
+   "domaci": "Nottingham",
+   "hoste": "Chelsea",
    "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
+   "stranka": "https://sazkyweb.cz/premier-league.html"
   },
   {
-   "cas": "21:00",
-   "soutez": "Evropská liga",
-   "domaci": "Lyon",
-   "hoste": "Lilleström",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
+   "cas": "21:07",
+   "soutez": "NHL",
+   "domaci": "Washington Capitals",
+   "hoste": "Florida Panthers",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
   },
   {
-   "cas": "21:00",
-   "soutez": "Evropská liga",
-   "domaci": "Crystal Palace",
-   "hoste": "Real Sociedad",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
+   "cas": "21:07",
+   "soutez": "NHL",
+   "domaci": "Philadelphia Flyers",
+   "hoste": "Vancouver Canucks",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
   },
   {
-   "cas": "21:00",
-   "soutez": "Evropská liga",
-   "domaci": "Sunderland",
-   "hoste": "Bialystok",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
+   "cas": "21:07",
+   "soutez": "NHL",
+   "domaci": "Columbus Blue Jackets",
+   "hoste": "Detroit Red Wings",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
   },
   {
-   "cas": "21:00",
-   "soutez": "Evropská liga",
-   "domaci": "Hoffenheim",
-   "hoste": "Sturm Graz",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
+   "cas": "21:07",
+   "soutez": "NHL",
+   "domaci": "Tampa Bay Lightning",
+   "hoste": "Ottawa Senators",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
   },
   {
-   "cas": "21:00",
-   "soutez": "Evropská liga",
-   "domaci": "Torreense",
-   "hoste": "Celtic Glasgow",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
+   "cas": "22:07",
+   "soutez": "NHL",
+   "domaci": "San Jose Sharks",
+   "hoste": "Vegas Golden Knights",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
   },
   {
-   "cas": "21:00",
-   "soutez": "Evropská liga",
-   "domaci": "Nijmegen",
-   "hoste": "Rennes",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
+   "cas": "22:07",
+   "soutez": "NHL",
+   "domaci": "Anaheim Ducks",
+   "hoste": "Los Angeles Kings",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
   },
   {
-   "cas": "21:00",
-   "soutez": "Evropská liga",
-   "domaci": "OFI Crete",
-   "hoste": "Anderlecht",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/evropska-liga-2026-27.html"
+   "cas": "22:07",
+   "soutez": "NHL",
+   "domaci": "Minnesota Wild",
+   "hoste": "Colorado Avalanche",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
   },
   {
-   "cas": "21:00",
-   "soutez": "Konferenční liga",
-   "domaci": "Braga",
-   "hoste": "KuPS Kuopio",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "21:00",
-   "soutez": "Konferenční liga",
-   "domaci": "Freiburg",
-   "hoste": "Twente",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "21:00",
-   "soutez": "Konferenční liga",
-   "domaci": "Gent",
-   "hoste": "CZ Beograd",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "21:00",
-   "soutez": "Konferenční liga",
-   "domaci": "Borac Banja Luka",
-   "hoste": "Atalanta Bergamo",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "21:00",
-   "soutez": "Konferenční liga",
-   "domaci": "Hajduk Split",
-   "hoste": "St. Truiden",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "21:00",
-   "soutez": "Konferenční liga",
-   "domaci": "Nordsjaelland",
-   "hoste": "Panathinaikos",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "21:00",
-   "soutez": "Konferenční liga",
-   "domaci": "Inter Escaldes",
-   "hoste": "FC Köbenhavn",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
-  },
-  {
-   "cas": "21:00",
-   "soutez": "Konferenční liga",
-   "domaci": "CSKA Sofia",
-   "hoste": "Trabzonspor",
-   "tv_tipsport": false,
-   "stranka": "https://sazkyweb.cz/konferencni-liga-2026-27.html"
+   "cas": "23:37",
+   "soutez": "NHL",
+   "domaci": "Chicago Blackhawks",
+   "hoste": "New York Rangers",
+   "tv_tipsport": true,
+   "stranka": "https://sazkyweb.cz/nhl-2026-27.html"
   }
  ]
 }

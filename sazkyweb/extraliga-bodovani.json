@@ -4,7 +4,7 @@
  "title": "Tipsport extraliga 2026/27 — kanadské bodování",
  "zdroj": "oficiální statistiky hokej.cz",
  "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
- "updated": "2026-11-26T06:47:00+01:00",
+ "updated": "2026-11-27T06:47:00+01:00",
  "bodovani": [
   {
    "poradi": 1,
@@ -14,7 +14,7 @@
    "goly": 10,
    "asistence": 18,
    "body": 28,
-   "plus_minus": "8"
+   "plus_minus": "7"
   },
   {
    "poradi": 2,
@@ -34,10 +34,20 @@
    "goly": 6,
    "asistence": 21,
    "body": 27,
-   "plus_minus": "5"
+   "plus_minus": "6"
   },
   {
    "poradi": 4,
+   "hrac": "Róbert Lantoši",
+   "klub": "České Budějovice",
+   "zapasy": 22,
+   "goly": 3,
+   "asistence": 21,
+   "body": 24,
+   "plus_minus": "-2"
+  },
+  {
+   "poradi": 5,
    "hrac": "Martin Růžička",
    "klub": "Třinec",
    "zapasy": 22,
@@ -45,16 +55,6 @@
    "asistence": 17,
    "body": 23,
    "plus_minus": "4"
-  },
-  {
-   "poradi": 5,
-   "hrac": "Róbert Lantoši",
-   "klub": "České Budějovice",
-   "zapasy": 22,
-   "goly": 3,
-   "asistence": 20,
-   "body": 23,
-   "plus_minus": "-2"
   },
   {
    "poradi": 6,
@@ -128,6 +128,16 @@
   },
   {
    "poradi": 13,
+   "hrac": "Jan Štencel",
+   "klub": "České Budějovice",
+   "zapasy": 22,
+   "goly": 5,
+   "asistence": 14,
+   "body": 19,
+   "plus_minus": "8"
+  },
+  {
+   "poradi": 14,
    "hrac": "Daniel Audette",
    "klub": "Kladno",
    "zapasy": 22,
@@ -137,7 +147,7 @@
    "plus_minus": "8"
   },
   {
-   "poradi": 14,
+   "poradi": 15,
    "hrac": "Daniel Voženílek",
    "klub": "Třinec",
    "zapasy": 22,
@@ -145,16 +155,6 @@
    "asistence": 9,
    "body": 18,
    "plus_minus": "5"
-  },
-  {
-   "poradi": 15,
-   "hrac": "Jan Štencel",
-   "klub": "České Budějovice",
-   "zapasy": 22,
-   "goly": 5,
-   "asistence": 13,
-   "body": 18,
-   "plus_minus": "7"
   }
  ]
 }

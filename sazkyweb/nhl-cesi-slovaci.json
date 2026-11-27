@@ -3,7 +3,7 @@
  "source_url": "https://sazkyweb.cz/nhl-2026-27.html",
  "title": "Češi a Slováci v NHL 2026/27",
  "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
- "updated": "2026-11-26T06:47:00+01:00",
+ "updated": "2026-11-27T06:47:00+01:00",
  "poznamka": "Soupisky po škrtech před startem (ČTK, NHL); statistiky sčítané z denních přehledů SazkyWeb.",
  "hraci": [
   {
@@ -26,10 +26,10 @@
    "pozice": "útočník",
    "nhl_id": 8477956,
    "sezona_2026_27": {
-    "zapasy": 23,
+    "zapasy": 24,
     "goly": 11,
-    "asistence": 20,
-    "body": 31
+    "asistence": 21,
+    "body": 32
    }
   },
   {
@@ -39,10 +39,10 @@
    "pozice": "útočník",
    "nhl_id": 8478401,
    "sezona_2026_27": {
-    "zapasy": 22,
+    "zapasy": 23,
     "goly": 6,
-    "asistence": 11,
-    "body": 17
+    "asistence": 12,
+    "body": 18
    }
   },
   {
@@ -52,10 +52,10 @@
    "pozice": "útočník",
    "nhl_id": 8483468,
    "sezona_2026_27": {
-    "zapasy": 16,
-    "goly": 4,
-    "asistence": 3,
-    "body": 7
+    "zapasy": 17,
+    "goly": 5,
+    "asistence": 4,
+    "body": 9
    }
   },
   {
@@ -65,10 +65,10 @@
    "pozice": "útočník",
    "nhl_id": 8483609,
    "sezona_2026_27": {
-    "zapasy": 24,
+    "zapasy": 25,
     "goly": 4,
-    "asistence": 5,
-    "body": 9
+    "asistence": 6,
+    "body": 10
    }
   },
   {
@@ -78,10 +78,10 @@
    "pozice": "útočník",
    "nhl_id": 8480039,
    "sezona_2026_27": {
-    "zapasy": 23,
-    "goly": 10,
-    "asistence": 16,
-    "body": 26
+    "zapasy": 24,
+    "goly": 11,
+    "asistence": 18,
+    "body": 29
    }
   },
   {
@@ -91,7 +91,7 @@
    "pozice": "útočník",
    "nhl_id": 8476889,
    "sezona_2026_27": {
-    "zapasy": 18,
+    "zapasy": 19,
     "goly": 0,
     "asistence": 2,
     "body": 2
@@ -104,7 +104,7 @@
    "pozice": "obránce",
    "nhl_id": 8475462,
    "sezona_2026_27": {
-    "zapasy": 16,
+    "zapasy": 17,
     "goly": 0,
     "asistence": 1,
     "body": 1
@@ -117,7 +117,7 @@
    "pozice": "obránce",
    "nhl_id": 8483766,
    "sezona_2026_27": {
-    "zapasy": 12,
+    "zapasy": 13,
     "goly": 0,
     "asistence": 1,
     "body": 1
@@ -143,7 +143,7 @@
    "pozice": "útočník",
    "nhl_id": 8476292,
    "sezona_2026_27": {
-    "zapasy": 22,
+    "zapasy": 23,
     "goly": 4,
     "asistence": 3,
     "body": 7
@@ -156,7 +156,7 @@
    "pozice": "útočník",
    "nhl_id": 8482877,
    "sezona_2026_27": {
-    "zapasy": 15,
+    "zapasy": 16,
     "goly": 2,
     "asistence": 1,
     "body": 3
@@ -195,7 +195,7 @@
    "pozice": "obránce",
    "nhl_id": 8484790,
    "sezona_2026_27": {
-    "zapasy": 17,
+    "zapasy": 18,
     "goly": 1,
     "asistence": 2,
     "body": 3
@@ -208,10 +208,10 @@
    "pozice": "brankář",
    "nhl_id": 8478872,
    "sezona_2026_27": {
-    "zapasy": 16,
-    "zakroky": 321,
-    "strely_proti": 368,
-    "vyhry": 6
+    "zapasy": 17,
+    "zakroky": 343,
+    "strely_proti": 393,
+    "vyhry": 7
    }
   },
   {
@@ -221,7 +221,7 @@
    "pozice": "útočník",
    "nhl_id": 8480078,
    "sezona_2026_27": {
-    "zapasy": 12,
+    "zapasy": 13,
     "goly": 4,
     "asistence": 2,
     "body": 6
@@ -234,7 +234,7 @@
    "pozice": "obránce",
    "nhl_id": 8479425,
    "sezona_2026_27": {
-    "zapasy": 25,
+    "zapasy": 26,
     "goly": 1,
     "asistence": 15,
     "body": 16
@@ -286,10 +286,10 @@
    "pozice": "obránce",
    "nhl_id": 8483495,
    "sezona_2026_27": {
-    "zapasy": 24,
+    "zapasy": 25,
     "goly": 2,
-    "asistence": 9,
-    "body": 11
+    "asistence": 10,
+    "body": 12
    }
   },
   {
@@ -299,7 +299,7 @@
    "pozice": "útočník",
    "nhl_id": 8483515,
    "sezona_2026_27": {
-    "zapasy": 25,
+    "zapasy": 26,
     "goly": 2,
     "asistence": 12,
     "body": 14
@@ -320,7 +320,7 @@
    "pozice": "útočník",
    "nhl_id": 8484164,
    "sezona_2026_27": {
-    "zapasy": 24,
+    "zapasy": 25,
     "goly": 6,
     "asistence": 2,
     "body": 8
@@ -346,10 +346,10 @@
    "pozice": "obránce",
    "nhl_id": 8480796,
    "sezona_2026_27": {
-    "zapasy": 21,
+    "zapasy": 22,
     "goly": 0,
-    "asistence": 4,
-    "body": 4
+    "asistence": 5,
+    "body": 5
    }
   },
   {

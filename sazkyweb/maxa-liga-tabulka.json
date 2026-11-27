@@ -3,7 +3,7 @@
  "source_url": "https://sazkyweb.cz/maxa-liga-2026-27.html",
  "title": "Maxa liga 2026/27 — tabulka",
  "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
- "updated": "2026-11-26T06:47:00+01:00",
+ "updated": "2026-11-27T06:47:00+01:00",
  "tabulka": [
   {
    "poradi": 1,
@@ -29,6 +29,17 @@
   },
   {
    "poradi": 3,
+   "tym": "Pardubice B",
+   "zapasy": 26,
+   "vyhry": 13,
+   "vyhry_prodl": 5,
+   "prohry_prodl": 1,
+   "prohry": 7,
+   "skore": "86:72",
+   "body": 50
+  },
+  {
+   "poradi": 4,
    "tym": "Litoměřice",
    "zapasy": 24,
    "vyhry": 14,
@@ -39,7 +50,7 @@
    "body": 48
   },
   {
-   "poradi": 4,
+   "poradi": 5,
    "tym": "Jihlava",
    "zapasy": 25,
    "vyhry": 12,
@@ -50,7 +61,7 @@
    "body": 47
   },
   {
-   "poradi": 5,
+   "poradi": 6,
    "tym": "Tábor",
    "zapasy": 25,
    "vyhry": 12,
@@ -61,25 +72,14 @@
    "body": 47
   },
   {
-   "poradi": 6,
-   "tym": "Pardubice B",
-   "zapasy": 25,
-   "vyhry": 12,
-   "vyhry_prodl": 5,
-   "prohry_prodl": 1,
-   "prohry": 7,
-   "skore": "82:70",
-   "body": 47
-  },
-  {
    "poradi": 7,
    "tym": "Kolín",
-   "zapasy": 24,
+   "zapasy": 25,
    "vyhry": 9,
    "vyhry_prodl": 5,
    "prohry_prodl": 4,
-   "prohry": 6,
-   "skore": "63:55",
+   "prohry": 7,
+   "skore": "65:59",
    "body": 41
   },
   {

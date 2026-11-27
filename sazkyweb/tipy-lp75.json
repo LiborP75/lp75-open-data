@@ -3,27 +3,27 @@
  "source_url": "https://sazkyweb.cz/bilance-tipu-lp75.html",
  "title": "Bilance tipů LP75 (od 1. 10. 2026)",
  "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
- "updated": "2026-11-26T07:37:00+01:00",
+ "updated": "2026-11-27T07:50:00+01:00",
  "statistika": {
   "clv": {
-   "tipu": 10,
-   "prumer": -1.0,
-   "kladne": 3,
+   "tipu": 13,
+   "prumer": -0.5,
+   "kladne": 5,
    "nulove": 2,
-   "zaporne": 5,
+   "zaporne": 6,
    "od": "2026-11-20"
   },
   "jednotky": {
-   "tipu": 97,
-   "zisk": 4.31,
-   "navratnost": 4.4,
+   "tipu": 100,
+   "zisk": 4.0,
+   "navratnost": 4.0,
    "prumerny_kurz": 1.45,
    "od": "2026-10-18"
   },
-  "celkem": 214,
-  "vyhry": 148,
-  "prohry": 66,
-  "uspesnost": 69.2,
+  "celkem": 217,
+  "vyhry": 150,
+  "prohry": 67,
+  "uspesnost": 69.1,
   "podle_sportu": {
    "tenis": {
     "vyhry": 15,
@@ -34,8 +34,8 @@
     "prohry": 11
    },
    "fotbal": {
-    "vyhry": 110,
-    "prohry": 47
+    "vyhry": 112,
+    "prohry": 48
    },
    "dostihy": {
     "vyhry": 1,
@@ -3923,9 +3923,9 @@
    "sport": "fotbal",
    "tip": "výhra Unionu",
    "zverejneno": "2026-11-26T07:37",
-   "telegram": null,
-   "vysledek": null,
-   "hodnoceni": "čeká",
+   "telegram": "https://t.me/SazkyWeb_insider/128",
+   "vysledek": "2:2",
+   "hodnoceni": "prohra",
    "sazka": "1",
    "kurz_ts": 1.36,
    "kurz_kb": 1.36,
@@ -3937,7 +3937,9 @@
    "kurz_cas": "2026-11-26T07:37",
    "url_ts": "https://www.tipsport.cz/kurzy/zapas/fotbal-union-st-gilloise-lech-poznan/8485668?pid=35294&sid=45420&bid=8836&tid=2161",
    "url_kb": "https://kngsb.click/o/qoesyc?site_id=87&redirect_url=https%3A%2F%2Fwww.kingsbet.cz%2Fsport%3Fpage%3Devent%26eventId%3D18193909%26sportId%3D66",
-   "otisk": "018697f64337ea27c3f00d7bd345817f67b8ce4c65c08214b5ce59ce5729ecd9"
+   "otisk": "018697f64337ea27c3f00d7bd345817f67b8ce4c65c08214b5ce59ce5729ecd9",
+   "kurz_zav": 1.32,
+   "clv": 3.0
   },
   {
    "datum": "2026-11-26",
@@ -3946,9 +3948,9 @@
    "sport": "fotbal",
    "tip": "výhra Marseille",
    "zverejneno": "2026-11-26T07:37",
-   "telegram": null,
-   "vysledek": null,
-   "hodnoceni": "čeká",
+   "telegram": "https://t.me/SazkyWeb_insider/128",
+   "vysledek": "1:0",
+   "hodnoceni": "výhra",
    "sazka": "1",
    "kurz_ts": 1.34,
    "kurz_kb": 1.36,
@@ -3960,7 +3962,9 @@
    "kurz_cas": "2026-11-26T07:37",
    "url_ts": "https://www.tipsport.cz/kurzy/zapas/fotbal-marseille-levski-sofia/8485667?pid=35294&sid=45420&bid=8836&tid=2161",
    "url_kb": "https://kngsb.click/o/qoesyc?site_id=87&redirect_url=https%3A%2F%2Fwww.kingsbet.cz%2Fsport%3Fpage%3Devent%26eventId%3D18193903%26sportId%3D66",
-   "otisk": "b215f4fe77c59d3e4285307434ee2c855ef5c415d7ec595c10694e0b5909d9e0"
+   "otisk": "b215f4fe77c59d3e4285307434ee2c855ef5c415d7ec595c10694e0b5909d9e0",
+   "kurz_zav": 1.39,
+   "clv": -3.6
   },
   {
    "datum": "2026-11-26",
@@ -3969,9 +3973,9 @@
    "sport": "fotbal",
    "tip": "výhra Hoffenheimu",
    "zverejneno": "2026-11-26T07:37",
-   "telegram": null,
-   "vysledek": null,
-   "hodnoceni": "čeká",
+   "telegram": "https://t.me/SazkyWeb_insider/128",
+   "vysledek": "3:1",
+   "hodnoceni": "výhra",
    "sazka": "1",
    "kurz_ts": 1.32,
    "kurz_kb": 1.33,
@@ -3983,7 +3987,32 @@
    "kurz_cas": "2026-11-26T07:37",
    "url_ts": "https://www.tipsport.cz/kurzy/zapas/fotbal-hoffenheim-sturm-graz/8485704?pid=35294&sid=45420&bid=8836&tid=2161",
    "url_kb": "https://kngsb.click/o/qoesyc?site_id=87&redirect_url=https%3A%2F%2Fwww.kingsbet.cz%2Fsport%3Fpage%3Devent%26eventId%3D18193895%26sportId%3D66",
-   "otisk": "a643f9e28589c3b13c5fd29270ec19e50843e2b091002313bca6ae170dbefff4"
+   "otisk": "a643f9e28589c3b13c5fd29270ec19e50843e2b091002313bca6ae170dbefff4",
+   "kurz_zav": 1.27,
+   "clv": 3.9
+  },
+  {
+   "datum": "2026-11-27",
+   "zacatek": "2026-11-27 20:30",
+   "zapas": "Górnik Zabrze – Wisła Płock",
+   "sport": "fotbal",
+   "tip": "výhra Górniku",
+   "zverejneno": "2026-11-27T07:50",
+   "telegram": null,
+   "vysledek": null,
+   "hodnoceni": "čeká",
+   "sazka": "1",
+   "kurz_ts": 1.45,
+   "kurz_kb": null,
+   "kurz": 1.45,
+   "kurz_u": "Tipsport",
+   "model_p": 62.0,
+   "min_kurz": 1.62,
+   "kurz_p": 69.0,
+   "kurz_cas": "2026-11-27T07:50",
+   "url_ts": "https://www.tipsport.cz/kurzy/zapas/fotbal-zabrze-wisla-plock/8231396?pid=35294&sid=45420&bid=8836&tid=2161",
+   "url_kb": null,
+   "otisk": "c3fbb612da9027e15294690016ae1d267baa3ae598be9a02521d1010d78ccf55"
   }
  ]
 }
