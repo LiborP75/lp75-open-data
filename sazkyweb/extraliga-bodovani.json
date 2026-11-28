@@ -4,13 +4,13 @@
  "title": "Tipsport extraliga 2026/27 — kanadské bodování",
  "zdroj": "oficiální statistiky hokej.cz",
  "license": "CC BY 4.0 — uveďte zdroj SazkyWeb.cz s odkazem",
- "updated": "2026-11-27T06:47:00+01:00",
+ "updated": "2026-11-28T06:47:00+01:00",
  "bodovani": [
   {
    "poradi": 1,
    "hrac": "David Tomášek",
    "klub": "Pardubice",
-   "zapasy": 22,
+   "zapasy": 23,
    "goly": 10,
    "asistence": 18,
    "body": 28,
@@ -20,21 +20,21 @@
    "poradi": 2,
    "hrac": "Libor Hudáček",
    "klub": "Třinec",
-   "zapasy": 21,
+   "zapasy": 22,
    "goly": 8,
    "asistence": 20,
    "body": 28,
-   "plus_minus": "14"
+   "plus_minus": "13"
   },
   {
    "poradi": 3,
    "hrac": "Roman Červenka",
    "klub": "Pardubice",
-   "zapasy": 19,
+   "zapasy": 20,
    "goly": 6,
-   "asistence": 21,
-   "body": 27,
-   "plus_minus": "6"
+   "asistence": 22,
+   "body": 28,
+   "plus_minus": "8"
   },
   {
    "poradi": 4,
@@ -50,7 +50,7 @@
    "poradi": 5,
    "hrac": "Martin Růžička",
    "klub": "Třinec",
-   "zapasy": 22,
+   "zapasy": 23,
    "goly": 6,
    "asistence": 17,
    "body": 23,
@@ -60,7 +60,7 @@
    "poradi": 6,
    "hrac": "Matěj Stránský",
    "klub": "Pardubice",
-   "zapasy": 22,
+   "zapasy": 23,
    "goly": 8,
    "asistence": 14,
    "body": 22,
@@ -80,14 +80,24 @@
    "poradi": 8,
    "hrac": "Marko Daňo",
    "klub": "Třinec",
-   "zapasy": 22,
+   "zapasy": 23,
    "goly": 9,
    "asistence": 12,
    "body": 21,
-   "plus_minus": "10"
+   "plus_minus": "8"
   },
   {
    "poradi": 9,
+   "hrac": "Daniel Audette",
+   "klub": "Kladno",
+   "zapasy": 23,
+   "goly": 5,
+   "asistence": 16,
+   "body": 21,
+   "plus_minus": "9"
+  },
+  {
+   "poradi": 10,
    "hrac": "Nick Olesen",
    "klub": "České Budějovice",
    "zapasy": 21,
@@ -97,49 +107,39 @@
    "plus_minus": "1"
   },
   {
-   "poradi": 10,
+   "poradi": 11,
    "hrac": "Jiří Smejkal",
    "klub": "Pardubice",
-   "zapasy": 22,
+   "zapasy": 23,
    "goly": 12,
    "asistence": 8,
    "body": 20,
    "plus_minus": "5"
   },
   {
-   "poradi": 11,
+   "poradi": 12,
    "hrac": "Niko Ojamäki",
    "klub": "Kladno",
-   "zapasy": 20,
+   "zapasy": 21,
    "goly": 10,
-   "asistence": 9,
-   "body": 19,
-   "plus_minus": "9"
-  },
-  {
-   "poradi": 12,
-   "hrac": "Nicholas Jones",
-   "klub": "Karlovy Vary",
-   "zapasy": 16,
-   "goly": 7,
-   "asistence": 12,
-   "body": 19,
-   "plus_minus": "3"
+   "asistence": 10,
+   "body": 20,
+   "plus_minus": "10"
   },
   {
    "poradi": 13,
-   "hrac": "Jan Štencel",
-   "klub": "České Budějovice",
-   "zapasy": 22,
-   "goly": 5,
-   "asistence": 14,
+   "hrac": "Nicholas Jones",
+   "klub": "Karlovy Vary",
+   "zapasy": 17,
+   "goly": 7,
+   "asistence": 12,
    "body": 19,
-   "plus_minus": "8"
+   "plus_minus": "2"
   },
   {
    "poradi": 14,
-   "hrac": "Daniel Audette",
-   "klub": "Kladno",
+   "hrac": "Jan Štencel",
+   "klub": "České Budějovice",
    "zapasy": 22,
    "goly": 5,
    "asistence": 14,
@@ -150,7 +150,7 @@
    "poradi": 15,
    "hrac": "Daniel Voženílek",
    "klub": "Třinec",
-   "zapasy": 22,
+   "zapasy": 23,
    "goly": 9,
    "asistence": 9,
    "body": 18,
